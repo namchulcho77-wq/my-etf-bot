@@ -1,0 +1,20 @@
+name: Daily-Bot
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 한국시간 오전 9시 실행
+  workflow_dispatch: # 수동 실행 버튼 생성
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: 파이썬 설치
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: 라이브러리 설치
+        run: pip install -r requirements.txt
+      - name: 코드 실행
+        run: etf_screener_20260504.py # 내 파일 이름으로 수정하세요!
