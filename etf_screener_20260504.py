@@ -7,7 +7,6 @@ import pandas as pd
 def run_leverage_etf():
   #레버리지 ETP
   ss = tvs.StockScreener()
-  #ss.set_symbol_types(SymbolType.ETF)
   ss.select(StockField.NAME, StockField.PRICE, StockField.CHANGE_PERCENT, StockField.DESCRIPTION, StockField.EXCHANGE, StockField.LAUNCH_DATE, StockField.SELECTION_CRITERIA,StockField.STRATEGY, StockField.LEVERAGE_RATIO)
 
   ss.where(StockField.LEVERAGED_FLAG == "Leveraged" )           # AND
@@ -30,7 +29,6 @@ def run_leverage_etf():
 
 def run_cryto_etf():
   ss = tvs.StockScreener()
-  ss.set_symbol_types(SymbolType.ETF)
   ss.select(StockField.NAME, StockField.PRICE, StockField.CHANGE_PERCENT, StockField.DESCRIPTION, StockField.EXCHANGE, StockField.LAUNCH_DATE, StockField.SELECTION_CRITERIA,StockField.STRATEGY)
 
   ss.where(StockField.ASSET_CLASS == "1af0389838508d7016a9841eb6273962" )           # AND
@@ -52,7 +50,6 @@ def run_cryto_etf():
 
 def run_singleStockExCoveredCall_etf():
   ss = tvs.StockScreener()
-  ss.set_symbol_types(SymbolType.ETF)
   ss.select(StockField.NAME, StockField.PRICE, StockField.CHANGE_PERCENT, StockField.DESCRIPTION, StockField.EXCHANGE, StockField.LAUNCH_DATE, StockField.SELECTION_CRITERIA, StockField.STRATEGY, StockField.LEVERAGE_RATIO)
 
   #ss.where(StockField.PRICE > 90)           # AND
@@ -77,7 +74,6 @@ def run_singleStockExCoveredCall_etf():
 
 def run_singleStockCoveredCall_etf():
   ss = tvs.StockScreener()
-  ss.set_symbol_types(SymbolType.ETF)
   ss.select(StockField.NAME, StockField.PRICE, StockField.CHANGE_PERCENT, StockField.DESCRIPTION, StockField.EXCHANGE, StockField.LAUNCH_DATE, StockField.SELECTION_CRITERIA,StockField.STRATEGY)
 
 
