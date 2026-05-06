@@ -2,8 +2,12 @@ name: Daily-Bot
 
 on:
   schedule:
-    # 한국 시간(KST) 오전 9시에 실행 (UTC 00:00)
-    - cron: '0 0 * * *'
+    # 1. 한국 오후 5:30 (UTC 08:30)
+    - cron: '30 8 * * *'
+    # 2. 한국 오후 5:40 (UTC 08:40)
+    - cron: '40 8 * * *'
+    # 3. 한국 오후 6:00 (UTC 09:00)
+    - cron: '0 9 * * *'
   workflow_dispatch: # 직접 실행 버튼을 생성
 
 # Node.js 24 강제 사용 설정 (경고 메시지 제거용)
