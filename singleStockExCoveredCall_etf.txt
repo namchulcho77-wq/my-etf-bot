@@ -1,221 +1,221 @@
      Symbol Name                                   Description    Price   Change % Exchange Launch Date Selection Criteria Strategy Leverage Ratio           Update Mode
   CBOE:AXTU AXTU           T-REX 2X Long AXTI Daily Target ETF  25.6800        NaN     CBOE  2026-05-04                 36       33             2x delayed_streaming_900
-  CBOE:AMKL AMKL        Defiance Daily Target 2X Long AMKR ETF  23.2800        NaN     CBOE  2026-05-03                 36       33             2x delayed_streaming_900
   CBOE:XOVL XOVL        Defiance Daily Target 2X Long XOVR ETF  19.9800        NaN     CBOE  2026-05-03                 36       33             2x delayed_streaming_900
- NASDAQ:AMA  AMA        Defiance Daily Target 2X Long AMAT ETF  21.5555   9.411562   NASDAQ  2026-04-29                 36       33             2x delayed_streaming_900
+  CBOE:AMKL AMKL        Defiance Daily Target 2X Long AMKR ETF  23.2800        NaN     CBOE  2026-05-03                 36       33             2x delayed_streaming_900
   CBOE:POEL POEL        Defiance Daily Target 2X Long POET ETF  31.3500  57.392160     CBOE  2026-04-29                 36       33             2x delayed_streaming_900
-  CBOE:STXX STXX                   Tradr 2X Long STX Daily ETF  42.1600   9.081501     CBOE  2026-04-23                 36       33             2x delayed_streaming_900
-  CBOE:CPNX CPNX                  Tradr 2X Long CPNG Daily ETF  25.2273   4.269601     CBOE  2026-04-23                 36       33             2x delayed_streaming_900
+ NASDAQ:AMA  AMA        Defiance Daily Target 2X Long AMAT ETF  21.5555   9.411562   NASDAQ  2026-04-29                 36       33             2x delayed_streaming_900
   CBOE:MPWX MPWX                  Tradr 2X Long MPWR Daily ETF  24.5000   0.963896     CBOE  2026-04-23                 36       33             2x delayed_streaming_900
   CBOE:AXTX AXTX                  Tradr 2X Long AXTI Daily ETF  47.8100   2.574555     CBOE  2026-04-23                 36       33             2x delayed_streaming_900
-  CBOE:LITZ LITZ                 Tradr 2X Short LITE Daily ETF  17.9301  -4.117112     CBOE  2026-04-21                 36       33             2x delayed_streaming_900
+  CBOE:STXX STXX                   Tradr 2X Long STX Daily ETF  42.1600   9.081501     CBOE  2026-04-23                 36       33             2x delayed_streaming_900
+  CBOE:CPNX CPNX                  Tradr 2X Long CPNG Daily ETF  25.2273   4.269601     CBOE  2026-04-23                 36       33             2x delayed_streaming_900
   CBOE:STXL STXL         Defiance Daily Target 2x Long STX ETF  34.3900   8.932531     CBOE  2026-04-21                 36       33             2x delayed_streaming_900
   CBOE:SNDQ SNDQ                 Tradr 2X Short SNDK Daily ETF  10.5100 -23.840580     CBOE  2026-04-21                 36       33             2x delayed_streaming_900
-  AMEX:UNHU UNHU                Direxion Daily UNH Bull 2X ETF  43.2482  -3.591451     AMEX  2026-03-24                 36       33             2x delayed_streaming_900
+  CBOE:LITZ LITZ                 Tradr 2X Short LITE Daily ETF  17.9301  -4.117112     CBOE  2026-04-21                 36       33             2x delayed_streaming_900
   AMEX:PYPU PYPU               Direxion Daily PYPL Bull 2X ETF  27.0265 -14.761993     AMEX  2026-03-24                 36       33             2x delayed_streaming_900
-  AMEX:TXNU TXNU                Direxion Daily TXN Bull 2X ETF  50.2600   1.540277     AMEX  2026-03-24                 36       33             2x delayed_streaming_900
   AMEX:ADBU ADBU               Direxion Daily ADBE Bull 2X ETF  27.6894   1.349155     AMEX  2026-03-24                 36       33             2x delayed_streaming_900
-  CBOE:HLXX HLXX                    Tradr 2X Long HL Daily ETF  21.8229  -6.323805     CBOE  2026-03-22                 36       33             2x delayed_streaming_900
+  AMEX:UNHU UNHU                Direxion Daily UNH Bull 2X ETF  43.2482  -3.591451     AMEX  2026-03-24                 36       33             2x delayed_streaming_900
+  AMEX:TXNU TXNU                Direxion Daily TXN Bull 2X ETF  50.2600   1.540277     AMEX  2026-03-24                 36       33             2x delayed_streaming_900
   CBOE:AMZO AMZO                 Tradr 2X Short AMZN Daily ETF  14.2690  -1.312013     CBOE  2026-03-22                 36       33             2x delayed_streaming_900
-   CBOE:IBX  IBX                   Tradr 2X Long IBM Daily ETF  20.7600  -0.144300     CBOE  2026-03-22                 36       33             2x delayed_streaming_900
   CBOE:AAOX AAOX                  Tradr 2X Long AAOI Daily ETF  68.0000   7.936508     CBOE  2026-03-22                 36       33             2x delayed_streaming_900
+   CBOE:IBX  IBX                   Tradr 2X Long IBM Daily ETF  20.7600  -0.144300     CBOE  2026-03-22                 36       33             2x delayed_streaming_900
+  CBOE:HLXX HLXX                    Tradr 2X Long HL Daily ETF  21.8229  -6.323805     CBOE  2026-03-22                 36       33             2x delayed_streaming_900
   CBOE:PAAU PAAU           T-REX 2X Long PAAS Daily Target ETF  16.2205  -1.992713     CBOE  2026-03-11                 36       33             2x delayed_streaming_900
   CBOE:SNDU SNDU           T-REX 2X Long SNDK Daily Target ETF  97.5000  23.417722     CBOE  2026-03-11                 36       33             2x delayed_streaming_900
-NASDAQ:GLWG GLWG         Leverage Shares 2X Long GLW Daily ETF  21.6400   2.268431   NASDAQ  2026-03-09                 36       33             2x delayed_streaming_900
   CBOE:WLDU WLDU Leverage Shares 2x Long World Stock Daily ETF  16.5765   2.021787     CBOE  2026-03-09                 36        1             2x delayed_streaming_900
-NASDAQ:FCXG FCXG         Leverage Shares 2x Long FCX Daily ETF  11.6622   7.034885   NASDAQ  2026-02-18                 36       33             2x delayed_streaming_900
+NASDAQ:GLWG GLWG         Leverage Shares 2X Long GLW Daily ETF  21.6400   2.268431   NASDAQ  2026-03-09                 36       33             2x delayed_streaming_900
 NASDAQ:AXPG AXPG         Leverage Shares 2x Long AXP Daily ETF  11.9359  -2.008128   NASDAQ  2026-02-18                 36       33             2x delayed_streaming_900
-  CBOE:CLSZ CLSZ                 Tradr 2X Short CLSK Daily ETF   7.6000  -7.654921     CBOE  2026-02-17                 36       33             2x delayed_streaming_900
-  CBOE:FGRU FGRU           T-REX 2X Long FIGR Daily Target ETF  17.6600   7.608126     CBOE  2026-02-17                 36       33             2x delayed_streaming_900
+NASDAQ:FCXG FCXG         Leverage Shares 2x Long FCX Daily ETF  11.6622   7.034885   NASDAQ  2026-02-18                 36       33             2x delayed_streaming_900
   CBOE:COHX COHX                  Tradr 2X Long COHR Daily ETF  47.6900   2.891046     CBOE  2026-02-17                 36       33             2x delayed_streaming_900
-  CBOE:LEUX LEUX                   Tradr 2X Long LEU Daily ETF  21.7550   0.022989     CBOE  2026-02-17                 36       33             2x delayed_streaming_900
+  CBOE:FGRU FGRU           T-REX 2X Long FIGR Daily Target ETF  17.6600   7.608126     CBOE  2026-02-17                 36       33             2x delayed_streaming_900
   CBOE:APHU APHU            T-REX 2X Long APH Daily Target ETF  19.7316  -6.626917     CBOE  2026-02-17                 36       33             2x delayed_streaming_900
-NASDAQ:MRVU MRVU               Direxion Daily MRVL Bull 2X ETF  93.6200   6.084986   NASDAQ  2026-02-10                 36       33             2x delayed_streaming_900
+  CBOE:LEUX LEUX                   Tradr 2X Long LEU Daily ETF  21.7550   0.022989     CBOE  2026-02-17                 36       33             2x delayed_streaming_900
+  CBOE:CLSZ CLSZ                 Tradr 2X Short CLSK Daily ETF   7.6000  -7.654921     CBOE  2026-02-17                 36       33             2x delayed_streaming_900
+NASDAQ:SOFA SOFA               Direxion Daily SOFI Bull 2X ETF  12.8053  -2.450674   NASDAQ  2026-02-10                 36       33             2x delayed_streaming_900
 NASDAQ:BABU BABU               Direxion Daily BABA Bull 2X ETF  14.7919  -1.716256   NASDAQ  2026-02-10                 36       33             2x delayed_streaming_900
 NASDAQ:ASMU ASMU               Direxion Daily ASML Bull 2X ETF  24.1700   7.805531   NASDAQ  2026-02-10                 36       33             2x delayed_streaming_900
-NASDAQ:SOFA SOFA               Direxion Daily SOFI Bull 2X ETF  12.8053  -2.450674   NASDAQ  2026-02-10                 36       33             2x delayed_streaming_900
+NASDAQ:MRVU MRVU               Direxion Daily MRVL Bull 2X ETF  93.6200   6.084986   NASDAQ  2026-02-10                 36       33             2x delayed_streaming_900
+NASDAQ:DNNG DNNG         Leverage Shares 2x Long DNN Daily ETF  10.7800  -8.224076   NASDAQ  2026-02-09                 36       33             2x delayed_streaming_900
+NASDAQ:CRMU CRMU        Leverage Shares 2x Long CRML Daily ETF  11.7300   7.146772   NASDAQ  2026-02-09                 36       33             2x delayed_streaming_900
    CBOE:SMZ  SMZ                  Tradr 2X Short SMR Daily ETF  26.7107   5.326104     CBOE  2026-02-09                 36       33             2x delayed_streaming_900
 NASDAQ:UECG UECG         Leverage Shares 2x Long UEC Daily ETF   9.2341  -4.241375   NASDAQ  2026-02-09                 36       33             2x delayed_streaming_900
    CBOE:BEZ  BEZ                   Tradr 2X Short BE Daily ETF   2.0300  -4.694836     CBOE  2026-02-09                 36       33             2x delayed_streaming_900
-NASDAQ:DNNG DNNG         Leverage Shares 2x Long DNN Daily ETF  10.7800  -8.224076   NASDAQ  2026-02-09                 36       33             2x delayed_streaming_900
-NASDAQ:CRMU CRMU        Leverage Shares 2x Long CRML Daily ETF  11.7300   7.146772   NASDAQ  2026-02-09                 36       33             2x delayed_streaming_900
   CBOE:ASTN ASTN       Defiance Daily Target 2X Short ASTS ETF  20.7300  13.963716     CBOE  2026-02-04                 36       33             2x delayed_streaming_900
-  AMEX:MRNX MRNX        Defiance Daily Target 2X Long MRNA ETF  21.3552  -2.157509     AMEX  2026-02-02                 36       33             2x delayed_streaming_900
   AMEX:ZETX ZETX        Defiance Daily Target 2x Long ZETA ETF  17.1475  -6.297814     AMEX  2026-02-02                 36       33             2x delayed_streaming_900
+  AMEX:MRNX MRNX        Defiance Daily Target 2X Long MRNA ETF  21.3552  -2.157509     AMEX  2026-02-02                 36       33             2x delayed_streaming_900
 NASDAQ:RCAX RCAX        Defiance Daily Target 2x Long RCAT ETF   7.8700 -10.669694   NASDAQ  2026-02-01                 36       33             2x delayed_streaming_900
   CBOE:RDWU RDWU            T-REX 2X Long RDW Daily Target ETF   7.5680   0.906667     CBOE  2026-01-27                 36       33             2x delayed_streaming_900
-  CBOE:LITX LITX                  Tradr 2X Long LITE Daily ETF  54.4400   3.813883     CBOE  2026-01-25                 36       33             2x delayed_streaming_900
   CBOE:SNXX SNXX                  Tradr 2X Long SNDK Daily ETF 161.6100  23.782169     CBOE  2026-01-25                 36       33             2x delayed_streaming_900
   CBOE:WDCX WDCX                   Tradr 2X Long WDC Daily ETF  77.7300  10.773835     CBOE  2026-01-25                 36       33             2x delayed_streaming_900
+  CBOE:LITX LITX                  Tradr 2X Long LITE Daily ETF  54.4400   3.813883     CBOE  2026-01-25                 36       33             2x delayed_streaming_900
   CBOE:APLZ APLZ                 Tradr 2X Short APLD Daily ETF   5.5400 -23.691460     CBOE  2026-01-21                 36       33             2x delayed_streaming_900
-  CBOE:NBIZ NBIZ                 Tradr 2X Short NBIS Daily ETF   2.8700   0.525394     CBOE  2026-01-20                 36       33             2x delayed_streaming_900
   CBOE:IREZ IREZ                 Tradr 2X Short IREN Daily ETF   9.3300 -21.065990     CBOE  2026-01-20                 36       33             2x delayed_streaming_900
+  CBOE:NBIZ NBIZ                 Tradr 2X Short NBIS Daily ETF   2.8700   0.525394     CBOE  2026-01-20                 36       33             2x delayed_streaming_900
   CBOE:LNOK LNOK         Defiance Daily Target 2X Long NOK ETF  77.3900   4.228956     CBOE  2026-01-19                 36       33             2x delayed_streaming_900
-NASDAQ:XPEG XPEG        Leverage Shares 2X Long XPEV Daily ETF   7.8300  -2.353249   NASDAQ  2026-01-14                 36       33             2x delayed_streaming_900
 NASDAQ:ORLG ORLG        Leverage Shares 2X Long ORLY Daily ETF  14.1050   2.303553   NASDAQ  2026-01-14                 36       33             2x delayed_streaming_900
+NASDAQ:XPEG XPEG        Leverage Shares 2X Long XPEV Daily ETF   7.8300  -2.353249   NASDAQ  2026-01-14                 36       33             2x delayed_streaming_900
   CBOE:EOSU EOSU           T-REX 2X Long EOSE Daily Target ETF  31.6893  -4.925160     CBOE  2026-01-13                 36       33             2x delayed_streaming_900
-NASDAQ:ONDG ONDG        Leverage Shares 2X Long ONDS Daily ETF   5.3500  -8.233276   NASDAQ  2026-01-12                 36       33             2x delayed_streaming_900
-NASDAQ:ALBG ALBG         Leverage Shares 2X Long ALB Daily ETF  16.7063   4.807403   NASDAQ  2026-01-12                 36       33             2x delayed_streaming_900
 NASDAQ:PLUL PLUL        Leverage Shares 2X Long PLUG Daily ETF  23.3786  12.262185   NASDAQ  2026-01-12                 36       33             2x delayed_streaming_900
-NASDAQ:HUTG HUTG         Leverage Shares 2X Long HUT Daily ETF  17.9892   5.887339   NASDAQ  2026-01-12                 36       33             2x delayed_streaming_900
+NASDAQ:ONDG ONDG        Leverage Shares 2X Long ONDS Daily ETF   5.3500  -8.233276   NASDAQ  2026-01-12                 36       33             2x delayed_streaming_900
 NASDAQ:UUUG UUUG        Leverage Shares 2X Long UUUU Daily ETF  12.8200  -4.557705   NASDAQ  2026-01-12                 36       33             2x delayed_streaming_900
+NASDAQ:HUTG HUTG         Leverage Shares 2X Long HUT Daily ETF  17.9892   5.887339   NASDAQ  2026-01-12                 36       33             2x delayed_streaming_900
 NASDAQ:USGG USGG        Leverage Shares 2X Long USAR Daily ETF  23.0100  14.534594   NASDAQ  2026-01-12                 36       33             2x delayed_streaming_900
-  CBOE:RKTL RKTL         Defiance Daily Target 2X Long RKT ETF  12.0948   1.979764     CBOE  2026-01-11                 36       33             2x delayed_streaming_900
+NASDAQ:ALBG ALBG         Leverage Shares 2X Long ALB Daily ETF  16.7063   4.807403   NASDAQ  2026-01-12                 36       33             2x delayed_streaming_900
   CBOE:LUNL LUNL        Defiance Daily Target 2X Long LUNR ETF  18.6600  -4.503582     CBOE  2026-01-11                 36       33             2x delayed_streaming_900
-  CBOE:PATX PATX                  Tradr 2X Long PATH Daily ETF   8.1100  -2.233795     CBOE  2026-01-11                 36       33             2x delayed_streaming_900
-  CBOE:USAX USAX                  Tradr 2X Long USAR Daily ETF  37.6500  13.677536     CBOE  2026-01-11                 36       33             2x delayed_streaming_900
-  CBOE:ONDU ONDU                  Tradr 2X Long ONDS Daily ETF   8.5301  -8.377014     CBOE  2026-01-11                 36       33             2x delayed_streaming_900
   CBOE:CRMX CRMX                  Tradr 2X Long CRML Daily ETF  26.5800   6.065443     CBOE  2026-01-11                 36       33             2x delayed_streaming_900
+  CBOE:ONDU ONDU                  Tradr 2X Long ONDS Daily ETF   8.5301  -8.377014     CBOE  2026-01-11                 36       33             2x delayed_streaming_900
+  CBOE:RKTL RKTL         Defiance Daily Target 2X Long RKT ETF  12.0948   1.979764     CBOE  2026-01-11                 36       33             2x delayed_streaming_900
+  CBOE:USAX USAX                  Tradr 2X Long USAR Daily ETF  37.6500  13.677536     CBOE  2026-01-11                 36       33             2x delayed_streaming_900
+  CBOE:PATX PATX                  Tradr 2X Long PATH Daily ETF   8.1100  -2.233795     CBOE  2026-01-11                 36       33             2x delayed_streaming_900
    CBOE:PLU  PLU          Defiance Daily Target 2x Long PL ETF  39.6700  -6.195318     CBOE  2026-01-05                 36       33             2x delayed_streaming_900
   CBOE:ONDL ONDL        Defiance Daily Target 2X Long ONDS ETF  14.7600  -8.719852     CBOE  2025-12-28                 36       33             2x delayed_streaming_900
 NASDAQ:KLAG KLAG        Leverage Shares 2x Long KLAC Daily ETF  27.8860   2.306913   NASDAQ  2025-12-17                 36       33             2x delayed_streaming_900
 NASDAQ:BIDG BIDG        Leverage Shares 2X Long BIDU Daily ETF  14.8250  -2.085755   NASDAQ  2025-12-17                 36       33             2x delayed_streaming_900
-NASDAQ:CNCG CNCG         Leverage Shares 2X Long CNC Daily ETF  23.4478  -2.391934   NASDAQ  2025-12-17                 36       33             2x delayed_streaming_900
-NASDAQ:NIOG NIOG         Leverage Shares 2X Long NIO Daily ETF  18.7744  -5.220008   NASDAQ  2025-12-17                 36       33             2x delayed_streaming_900
-NASDAQ:PBRG PBRG         Leverage Shares 2X Long PBR Daily ETF  50.5967  -2.122873   NASDAQ  2025-12-17                 36       33             2x delayed_streaming_900
 NASDAQ:VALG VALG        Leverage Shares 2X Long VALE Daily ETF  20.9583   1.211155   NASDAQ  2025-12-17                 36       33             2x delayed_streaming_900
+NASDAQ:PBRG PBRG         Leverage Shares 2X Long PBR Daily ETF  50.5967  -2.122873   NASDAQ  2025-12-17                 36       33             2x delayed_streaming_900
+NASDAQ:NIOG NIOG         Leverage Shares 2X Long NIO Daily ETF  18.7744  -5.220008   NASDAQ  2025-12-17                 36       33             2x delayed_streaming_900
 NASDAQ:SNAG SNAG        Leverage Shares 2x Long SNAP Daily ETF   8.1636  -2.465950   NASDAQ  2025-12-17                 36       33             2x delayed_streaming_900
-NASDAQ:SATG SATG        Leverage Shares 2X Long SATS Daily ETF  16.1294  -5.232667   NASDAQ  2025-12-15                 36       33             2x delayed_streaming_900
-NASDAQ:IREG IREG        Leverage Shares 2X Long IREN Daily ETF  22.6300  21.210498   NASDAQ  2025-12-15                 36       33             2x delayed_streaming_900
+NASDAQ:CNCG CNCG         Leverage Shares 2X Long CNC Daily ETF  23.4478  -2.391934   NASDAQ  2025-12-17                 36       33             2x delayed_streaming_900
  NASDAQ:BEG  BEG          Leverage Shares 2x Long BE Daily ETF  99.2871   4.495138   NASDAQ  2025-12-15                 36       33             2x delayed_streaming_900
 NASDAQ:GEVG GEVG         Leverage Shares 2X Long GEV Daily ETF  34.1400   4.349740   NASDAQ  2025-12-15                 36       33             2x delayed_streaming_900
-NASDAQ:CIFG CIFG        Leverage Shares 2X Long CIFR Daily ETF  13.1118  47.850208   NASDAQ  2025-12-10                 36       33             2x delayed_streaming_900
+NASDAQ:IREG IREG        Leverage Shares 2X Long IREN Daily ETF  22.6300  21.210498   NASDAQ  2025-12-15                 36       33             2x delayed_streaming_900
+NASDAQ:SATG SATG        Leverage Shares 2X Long SATS Daily ETF  16.1294  -5.232667   NASDAQ  2025-12-15                 36       33             2x delayed_streaming_900
 NASDAQ:LACG LACG         Leverage Shares 2X Long LAC Daily ETF  12.8915  -0.801040   NASDAQ  2025-12-10                 36       33             2x delayed_streaming_900
-NASDAQ:DUOG DUOG        Leverage Shares 2X Long DUOL Daily ETF  34.1879 -11.200260   NASDAQ  2025-12-10                 36       33             2x delayed_streaming_900
 NASDAQ:GRAG GRAG        Leverage Shares 2X Long GRAB Daily ETF   6.8535   3.900731   NASDAQ  2025-12-10                 36       33             2x delayed_streaming_900
-NASDAQ:OPEG OPEG        Leverage Shares 2X Long OPEN Daily ETF   6.1671   3.535633   NASDAQ  2025-12-10                 36       33             2x delayed_streaming_900
+NASDAQ:CIFG CIFG        Leverage Shares 2X Long CIFR Daily ETF  13.1118  47.850208   NASDAQ  2025-12-10                 36       33             2x delayed_streaming_900
+NASDAQ:DUOG DUOG        Leverage Shares 2X Long DUOL Daily ETF  34.1879 -11.200260   NASDAQ  2025-12-10                 36       33             2x delayed_streaming_900
 NASDAQ:UPSG UPSG         Leverage Shares 2X Long UPS Daily ETF  13.7381   3.524385   NASDAQ  2025-12-10                 36       33             2x delayed_streaming_900
+NASDAQ:OPEG OPEG        Leverage Shares 2X Long OPEN Daily ETF   6.1671   3.535633   NASDAQ  2025-12-10                 36       33             2x delayed_streaming_900
   CBOE:UNHW UNHW                   Roundhill UNH WeeklyPay ETF  48.5100  -1.909043     CBOE  2025-12-02                 36       33          Other delayed_streaming_900
  NASDAQ:GOU  GOU         GraniteShares 2x Long GOOGL Daily ETF  35.1500   3.133014   NASDAQ  2025-12-01                 36       33             2x delayed_streaming_900
  NASDAQ:QBY  QBY             GraniteShares YieldBoost QBTS ETF   9.4800   0.370566   NASDAQ  2025-11-24                 36       33             2x delayed_streaming_900
 NASDAQ:RGYY RGYY             GraniteShares YieldBoost RGTI ETF   9.5650   0.790306   NASDAQ  2025-11-24                 36       33             2x delayed_streaming_900
   AMEX:OKLS OKLS       Defiance Daily Target 2X Short OKLO ETF  23.2800   0.735612     AMEX  2025-11-24                 36       33             2x delayed_streaming_900
-NASDAQ:LINT LINT               Direxion Daily INTC Bull 2X ETF 176.4500  26.523734   NASDAQ  2025-11-18                 36       33             2x delayed_streaming_900
 NASDAQ:KBDU KBDU            KraneShares 2x Long BIDU Daily ETF  25.5590  -2.140661   NASDAQ  2025-11-18                 36       33             2x delayed_streaming_900
-NASDAQ:CONX CONX               Direxion Daily COIN Bull 2X ETF  10.3700  -5.124381   NASDAQ  2025-11-18                 36       33             2x delayed_streaming_900
 NASDAQ:ORCU ORCU               Direxion Daily ORCL Bull 2X ETF  14.5300   5.289855   NASDAQ  2025-11-18                 36       33             2x delayed_streaming_900
 NASDAQ:HODU HODU               Direxion Daily HOOD Bull 2X ETF   8.1100   1.122195   NASDAQ  2025-11-18                 36       33             2x delayed_streaming_900
 NASDAQ:ORCS ORCS               Direxion Daily ORCL Bear 1X ETF  26.0200  -2.972719   NASDAQ  2025-11-18                 36       33           None delayed_streaming_900
+NASDAQ:CONX CONX               Direxion Daily COIN Bull 2X ETF  10.3700  -5.124381   NASDAQ  2025-11-18                 36       33             2x delayed_streaming_900
+NASDAQ:LINT LINT               Direxion Daily INTC Bull 2X ETF 176.4500  26.523734   NASDAQ  2025-11-18                 36       33             2x delayed_streaming_900
   NASDAQ:BU   BU          Defiance Daily Target 2X Long BU ETF  18.1797   1.809415   NASDAQ  2025-11-17                 36       33             2x delayed_streaming_900
-NASDAQ:NETG NETG         Leverage Shares 2X Long NET Daily ETF  15.7948  18.422217   NASDAQ  2025-11-16                 36       33             2x delayed_streaming_900
-NASDAQ:ABNG ABNG        Leverage Shares 2x Long ABNB Daily ETF  17.6988   1.279528   NASDAQ  2025-11-16                 36       33             2x delayed_streaming_900
- NASDAQ:NUG  NUG          Leverage Shares 2X Long NU Daily ETF  10.7083   1.583281   NASDAQ  2025-11-16                 36       33             2x delayed_streaming_900
-  AMEX:STSM STSM        Defiance Daily Target 2X Short TSM ETF  24.9345   3.438620     AMEX  2025-11-16                 36       33             2x delayed_streaming_900
-NASDAQ:OKTG OKTG        Leverage Shares 2X Long OKTA Daily ETF  10.6164   1.407966   NASDAQ  2025-11-16                 36       33             2x delayed_streaming_900
-NASDAQ:SPOG SPOG        Leverage Shares 2X Long SPOT Daily ETF   5.4800  -8.207705   NASDAQ  2025-11-16                 36       33             2x delayed_streaming_900
-NASDAQ:CMGG CMGG         Leverage Shares 2X Long CMG Daily ETF  14.0867   1.837701   NASDAQ  2025-11-16                 36       33             2x delayed_streaming_900
- NASDAQ:SBU  SBU        Leverage Shares 2X Long SBUX Daily ETF  21.1381   0.063907   NASDAQ  2025-11-16                 36       33             2x delayed_streaming_900
+NASDAQ:NEMG NEMG         Leverage Shares 2x Long NEM Daily ETF  19.5193   1.297926   NASDAQ  2025-11-16                 36       33             2x delayed_streaming_900
 NASDAQ:TERG TERG         Leverage Shares 2X Long TER Daily ETF  49.2300  11.886364   NASDAQ  2025-11-16                 36       33             2x delayed_streaming_900
 NASDAQ:RKLZ RKLZ       Defiance Daily Target 2x Short RKLB ETF  13.2900   3.747073   NASDAQ  2025-11-16                 36       33             2x delayed_streaming_900
-NASDAQ:NEMG NEMG         Leverage Shares 2x Long NEM Daily ETF  19.5193   1.297926   NASDAQ  2025-11-16                 36       33             2x delayed_streaming_900
+NASDAQ:SPOG SPOG        Leverage Shares 2X Long SPOT Daily ETF   5.4800  -8.207705   NASDAQ  2025-11-16                 36       33             2x delayed_streaming_900
+NASDAQ:NETG NETG         Leverage Shares 2X Long NET Daily ETF  15.7948  18.422217   NASDAQ  2025-11-16                 36       33             2x delayed_streaming_900
+NASDAQ:ABNG ABNG        Leverage Shares 2x Long ABNB Daily ETF  17.6988   1.279528   NASDAQ  2025-11-16                 36       33             2x delayed_streaming_900
+  AMEX:STSM STSM        Defiance Daily Target 2X Short TSM ETF  24.9345   3.438620     AMEX  2025-11-16                 36       33             2x delayed_streaming_900
+NASDAQ:CMGG CMGG         Leverage Shares 2X Long CMG Daily ETF  14.0867   1.837701   NASDAQ  2025-11-16                 36       33             2x delayed_streaming_900
+ NASDAQ:SBU  SBU        Leverage Shares 2X Long SBUX Daily ETF  21.1381   0.063907   NASDAQ  2025-11-16                 36       33             2x delayed_streaming_900
+NASDAQ:OKTG OKTG        Leverage Shares 2X Long OKTA Daily ETF  10.6164   1.407966   NASDAQ  2025-11-16                 36       33             2x delayed_streaming_900
+ NASDAQ:NUG  NUG          Leverage Shares 2X Long NU Daily ETF  10.7083   1.583281   NASDAQ  2025-11-16                 36       33             2x delayed_streaming_900
   AMEX:DAMD DAMD        Defiance Daily Target 2X Short AMD ETF   5.6300  -8.156607     AMEX  2025-11-12                 36       33             2x delayed_streaming_900
-  AMEX:HOOZ HOOZ       Defiance Daily Target 2X Short HOOD ETF  27.6200  -1.462719     AMEX  2025-11-11                 36       33             2x delayed_streaming_900
    CBOE:BEX  BEX                    Tradr 2X Long BE Daily ETF  70.1100   4.283802     CBOE  2025-11-11                 36       33             2x delayed_streaming_900
+  AMEX:HOOZ HOOZ       Defiance Daily Target 2X Short HOOD ETF  27.6200  -1.462719     AMEX  2025-11-11                 36       33             2x delayed_streaming_900
   CBOE:CSEX CSEX                   Tradr 2X Long CLS Daily ETF  27.3900  -1.297297     CBOE  2025-11-11                 36       33             2x delayed_streaming_900
   AMEX:BMNZ BMNZ       Defiance Daily Target 2X Short BMNR ETF  13.4800  -2.177068     AMEX  2025-11-11                 36       33             2x delayed_streaming_900
-NASDAQ:GEMG GEMG        Leverage Shares 2X Long GEMI Daily ETF  12.6213   3.031020   NASDAQ  2025-11-04                 36       33             2x delayed_streaming_900
 NASDAQ:LULG LULG        Leverage Shares 2X Long LULU Daily ETF   8.4040   1.892603   NASDAQ  2025-11-04                 36       33             2x delayed_streaming_900
 NASDAQ:OSCG OSCG        Leverage Shares 2X Long OSCR Daily ETF  11.7653  -6.042214   NASDAQ  2025-11-04                 36       33             2x delayed_streaming_900
+NASDAQ:GEMG GEMG        Leverage Shares 2X Long GEMI Daily ETF  12.6213   3.031020   NASDAQ  2025-11-04                 36       33             2x delayed_streaming_900
   CBOE:COZX COZX                  Tradr 2X Long CORZ Daily ETF  18.4700  10.920938     CBOE  2025-11-03                 36       33             2x delayed_streaming_900
 NASDAQ:BLSG BLSG        Leverage Shares 2X Long BLSH Daily ETF   7.3500  23.121765   NASDAQ  2025-10-26                 36       33             2x delayed_streaming_900
-NASDAQ:NBIG NBIG        Leverage Shares 2X Long NBIS Daily ETF  19.2500  -1.079137   NASDAQ  2025-10-26                 36       33             2x delayed_streaming_900
  NASDAQ:MPG  MPG          Leverage Shares 2X Long MP Daily ETF   9.5967   5.226974   NASDAQ  2025-10-26                 36       33             2x delayed_streaming_900
+NASDAQ:NBIG NBIG        Leverage Shares 2X Long NBIS Daily ETF  19.2500  -1.079137   NASDAQ  2025-10-26                 36       33             2x delayed_streaming_900
 NASDAQ:BMNG BMNG        Leverage Shares 2X Long BMNR Daily ETF  31.4700   2.843137   NASDAQ  2025-10-26                 36       33             2x delayed_streaming_900
   CBOE:ARMW ARMW                   Roundhill ARM WeeklyPay ETF  45.8900   3.460248     CBOE  2025-10-22                 36       33          Other delayed_streaming_900
-  CBOE:COSW COSW                  Roundhill COST WeeklyPay ETF  46.2357   0.382767     CBOE  2025-10-22                 36       33          Other delayed_streaming_900
   CBOE:BABW BABW                  Roundhill BABA WeeklyPay ETF  29.2992  -0.747967     CBOE  2025-10-22                 36       33          Other delayed_streaming_900
-NASDAQ:AVXX AVXX        Defiance Daily Target 2x Long AVAV ETF   8.2000 -14.780404   NASDAQ  2025-10-22                 36       33             2x delayed_streaming_900
   CBOE:UBEW UBEW                  Roundhill UBER WeeklyPay ETF  29.7115  -1.731762     CBOE  2025-10-22                 36       33          Other delayed_streaming_900
+NASDAQ:AVXX AVXX        Defiance Daily Target 2x Long AVAV ETF   8.2000 -14.780404   NASDAQ  2025-10-22                 36       33             2x delayed_streaming_900
+  CBOE:COSW COSW                  Roundhill COST WeeklyPay ETF  46.2357   0.382767     CBOE  2025-10-22                 36       33          Other delayed_streaming_900
   CBOE:OPEX OPEX                  Tradr 2X Long OPEN Daily ETF  25.0000   3.734440     CBOE  2025-10-21                 36       33             2x delayed_streaming_900
-  CBOE:FLYT FLYT                   Tradr 2X Long FLY Daily ETF  17.3000 -10.501811     CBOE  2025-10-21                 36       33             2x delayed_streaming_900
   CBOE:SRPU SRPU                  Tradr 2X Long SRPT Daily ETF  11.8900  -3.254679     CBOE  2025-10-21                 36       33             2x delayed_streaming_900
-  CBOE:WULX WULX                  Tradr 2X Long WULF Daily ETF  47.2600  10.575573     CBOE  2025-10-21                 36       33             2x delayed_streaming_900
+  CBOE:FLYT FLYT                   Tradr 2X Long FLY Daily ETF  17.3000 -10.501811     CBOE  2025-10-21                 36       33             2x delayed_streaming_900
   CBOE:IREX IREX                  Tradr 2X Long IREN Daily ETF  40.6100  20.755278     CBOE  2025-10-21                 36       33             2x delayed_streaming_900
+  CBOE:WULX WULX                  Tradr 2X Long WULF Daily ETF  47.2600  10.575573     CBOE  2025-10-21                 36       33             2x delayed_streaming_900
    AMEX:IRE  IRE        Defiance Daily Target 2X Long IREN ETF  30.2700  21.128451     AMEX  2025-10-20                 36       33             2x delayed_streaming_900
   CBOE:SBTU SBTU           T-REX 2X Long SBET Daily Target ETF   4.2300   0.714286     CBOE  2025-10-20                 36       33             2x delayed_streaming_900
-   AMEX:QSU  QSU          Defiance Daily Target 2X Long QS ETF  14.6600   1.523546     AMEX  2025-10-19                 36       33             2x delayed_streaming_900
    AMEX:MPL  MPL          Defiance Daily Target 2X Long MP ETF  26.4300   5.340773     AMEX  2025-10-19                 36       33             2x delayed_streaming_900
-NASDAQ:LMNX LMNX        Defiance Daily Target 2x Long LMND ETF  13.9285   7.814072   NASDAQ  2025-10-14                 36       33             2x delayed_streaming_900
+   AMEX:QSU  QSU          Defiance Daily Target 2X Long QS ETF  14.6600   1.523546     AMEX  2025-10-19                 36       33             2x delayed_streaming_900
  NASDAQ:KJD  KJD              KraneShares 2x Long JD Daily ETF  19.7048  -2.515188   NASDAQ  2025-10-14                 36       33             2x delayed_streaming_900
+NASDAQ:LMNX LMNX        Defiance Daily Target 2x Long LMND ETF  13.9285   7.814072   NASDAQ  2025-10-14                 36       33             2x delayed_streaming_900
 NASDAQ:FIGG FIGG         Leverage Shares 2x Long FIG Daily ETF  18.8600  -4.862793   NASDAQ  2025-10-13                 36       33             2x delayed_streaming_900
 NASDAQ:FUTG FUTG        Leverage Shares 2x Long FUTU Daily ETF  11.9591   1.603174   NASDAQ  2025-10-13                 36       33             2x delayed_streaming_900
 NASDAQ:RGTZ RGTZ       Defiance Daily Target 2x Short RGTI ETF  12.3800  -6.283119   NASDAQ  2025-10-07                 36       33             2x delayed_streaming_900
-NASDAQ:ISUL ISUL          GraniteShares 2x Long ISRG Daily ETF  22.6631  -0.233754   NASDAQ  2025-10-06                 36       33             2x delayed_streaming_900
 NASDAQ:NBIL NBIL          GraniteShares 2x Long NBIS Daily ETF  27.5300  -0.721241   NASDAQ  2025-10-06                 36       33             2x delayed_streaming_900
+NASDAQ:ISUL ISUL          GraniteShares 2x Long ISRG Daily ETF  22.6631  -0.233754   NASDAQ  2025-10-06                 36       33             2x delayed_streaming_900
 NASDAQ:QBTZ QBTZ       Defiance Daily Target 2x Short QBTS ETF  14.1400  -4.716981   NASDAQ  2025-10-05                 36       33             2x delayed_streaming_900
   CBOE:BMNU BMNU           T-REX 2X Long BMNR Daily Target ETF   2.2700   2.252252     CBOE  2025-09-25                 36       33             2x delayed_streaming_900
-  CBOE:CRCD CRCD        T-REX 2X Inverse CRCL Daily Target ETF   3.2900   8.580858     CBOE  2025-09-25                 36       33             2x delayed_streaming_900
   CBOE:CORD CORD        T-REX 2X Inverse CRWV Daily Target ETF   4.5900  -4.175365     CBOE  2025-09-25                 36       33             2x delayed_streaming_900
+  CBOE:CRCD CRCD        T-REX 2X Inverse CRCL Daily Target ETF   3.2900   8.580858     CBOE  2025-09-25                 36       33             2x delayed_streaming_900
 NASDAQ:OSCX OSCX        Defiance Daily Target 2x Long OSCR ETF  46.2044  -6.873755   NASDAQ  2025-09-23                 36       33             2x delayed_streaming_900
 NASDAQ:COTG COTG        Leverage Shares 2X Long COST Daily ETF  15.3719   0.762343   NASDAQ  2025-09-17                 36       33             2x delayed_streaming_900
-  CBOE:KTUP KTUP           T-REX 2X Long KTOS Daily Target ETF  10.2800  -9.187279     CBOE  2025-09-15                 36       33             2x delayed_streaming_900
-  CBOE:TTDU TTDU            T-REX 2X Long TTD Daily Target ETF   5.4500   3.809524     CBOE  2025-09-15                 36       33             2x delayed_streaming_900
   CBOE:AFRU AFRU           T-REX 2X Long AFRM Daily Target ETF   9.6213  -1.320000     CBOE  2025-09-15                 36       33             2x delayed_streaming_900
+  CBOE:TTDU TTDU            T-REX 2X Long TTD Daily Target ETF   5.4500   3.809524     CBOE  2025-09-15                 36       33             2x delayed_streaming_900
+  CBOE:KTUP KTUP           T-REX 2X Long KTOS Daily Target ETF  10.2800  -9.187279     CBOE  2025-09-15                 36       33             2x delayed_streaming_900
+  CBOE:CRDU CRDU                  Tradr 2X Long CRDO Daily ETF  57.5300  15.036993     CBOE  2025-09-14                 36       33             2x delayed_streaming_900
   CBOE:CLSX CLSX                  Tradr 2X Long CLSK Daily ETF  19.6600   9.707373     CBOE  2025-09-14                 36       33             2x delayed_streaming_900
    CBOE:UNX  UNX                     Tradr 2X Long U Daily ETF  44.8700  -3.401507     CBOE  2025-09-14                 36       33             2x delayed_streaming_900
-  CBOE:CRDU CRDU                  Tradr 2X Long CRDO Daily ETF  57.5300  15.036993     CBOE  2025-09-14                 36       33             2x delayed_streaming_900
   CBOE:NVTX NVTX                  Tradr 2X Long NVTS Daily ETF  68.4500  18.425606     CBOE  2025-09-07                 36       33             2x delayed_streaming_900
+  AMEX:PLTA PLTA                          ProShares Ultra PLTR  14.1600 -14.077670     AMEX  2025-09-07                 36       33             2x delayed_streaming_900
   CBOE:PONX PONX                  Tradr 2X Long PONY Daily ETF   7.6900  -3.995006     CBOE  2025-09-07                 36       33             2x delayed_streaming_900
+  AMEX:COIA COIA                          ProShares Ultra COIN   6.6000  -5.308465     AMEX  2025-09-07                 36       33             2x delayed_streaming_900
+  CBOE:NEBX NEBX                  Tradr 2X Long NBIS Daily ETF  85.0500  -1.311209     CBOE  2025-09-07                 36       33             2x delayed_streaming_900
   AMEX:TSLI TSLI                          ProShares Ultra TSLA  24.1400  -1.629992     AMEX  2025-09-07                 36       33             2x delayed_streaming_900
   CBOE:JOBX JOBX                  Tradr 2X Long JOBY Daily ETF  19.6200  -4.199219     CBOE  2025-09-07                 36       33             2x delayed_streaming_900
-  CBOE:APLX APLX                  Tradr 2X Long APLD Daily ETF  27.9500  23.727313     CBOE  2025-09-07                 36       33             2x delayed_streaming_900
   AMEX:NVDB NVDB                          ProShares Ultra NVDA  28.4600  -1.900632     AMEX  2025-09-07                 36       33             2x delayed_streaming_900
-  CBOE:NEBX NEBX                  Tradr 2X Long NBIS Daily ETF  85.0500  -1.311209     CBOE  2025-09-07                 36       33             2x delayed_streaming_900
-  AMEX:PLTA PLTA                          ProShares Ultra PLTR  14.1600 -14.077670     AMEX  2025-09-07                 36       33             2x delayed_streaming_900
-  AMEX:COIA COIA                          ProShares Ultra COIN   6.6000  -5.308465     AMEX  2025-09-07                 36       33             2x delayed_streaming_900
+  CBOE:APLX APLX                  Tradr 2X Long APLD Daily ETF  27.9500  23.727313     CBOE  2025-09-07                 36       33             2x delayed_streaming_900
+NASDAQ:ETRL ETRL          GraniteShares 2x Long ETOR Daily ETF  12.9737   3.080407   NASDAQ  2025-09-02                 36       33             2x delayed_streaming_900
 NASDAQ:ANEL ANEL        Defiance Daily Target 2x Long ANET ETF  23.6519  -3.658248   NASDAQ  2025-09-02                 36       33             2x delayed_streaming_900
 NASDAQ:BULX BULX          GraniteShares 2x Long BULL Daily ETF   5.1745   4.010050   NASDAQ  2025-09-02                 36       33             2x delayed_streaming_900
-NASDAQ:ETRL ETRL          GraniteShares 2x Long ETOR Daily ETF  12.9737   3.080407   NASDAQ  2025-09-02                 36       33             2x delayed_streaming_900
-NASDAQ:BAIG BAIG        Leverage Shares 2X Long BBAI Daily ETF  37.5150  -0.994933   NASDAQ  2025-08-20                 36       33             2x delayed_streaming_900
 NASDAQ:GLGG GLGG        Leverage Shares 2X Long GLXY Daily ETF  11.0341   8.532843   NASDAQ  2025-08-20                 36       33             2x delayed_streaming_900
+NASDAQ:BAIG BAIG        Leverage Shares 2X Long BBAI Daily ETF  37.5150  -0.994933   NASDAQ  2025-08-20                 36       33             2x delayed_streaming_900
   CBOE:LRCU LRCU                  Tradr 2X Long LRCX Daily ETF  50.1800  13.967749     CBOE  2025-08-17                 36       33             2x delayed_streaming_900
-NASDAQ:CRCG CRCG        Leverage Shares 2X Long CRCL Daily ETF  34.9200  -8.825065   NASDAQ  2025-08-10                 36       33             2x delayed_streaming_900
 NASDAQ:CRWG CRWG        Leverage Shares 2X Long CRWV Daily ETF  60.1700   3.562823   NASDAQ  2025-08-10                 36       33             2x delayed_streaming_900
+NASDAQ:CRCG CRCG        Leverage Shares 2X Long CRCL Daily ETF  34.9200  -8.825065   NASDAQ  2025-08-10                 36       33             2x delayed_streaming_900
   CBOE:LABX LABX                  Tradr 2X Long ALAB Daily ETF  53.2100  13.599488     CBOE  2025-08-10                 36       33             2x delayed_streaming_900
 NASDAQ:BULG BULG        Leverage Shares 2X Long BULL Daily ETF  45.6141   4.703066   NASDAQ  2025-08-10                 36       33             2x delayed_streaming_900
   CBOE:GLXU GLXU           T-REX 2X Long GLXY Daily Target ETF  12.8500   7.802013     CBOE  2025-08-07                 36       33             2x delayed_streaming_900
   AMEX:CRCA CRCA                          ProShares Ultra CRCL  52.7300  -8.976351     AMEX  2025-08-05                 36       33             2x delayed_streaming_900
-NASDAQ:LMTL LMTL                Direxion Daily LMT Bull 2X ETF  31.2247  -3.589976   NASDAQ  2025-08-05                 36       33             2x delayed_streaming_900
 NASDAQ:SHPU SHPU               Direxion Daily SHOP Bull 2X ETF  10.6000 -31.435964   NASDAQ  2025-08-05                 36       33             2x delayed_streaming_900
+NASDAQ:LMTL LMTL                Direxion Daily LMT Bull 2X ETF  31.2247  -3.589976   NASDAQ  2025-08-05                 36       33             2x delayed_streaming_900
 NASDAQ:DKNX DKNX        Defiance Daily Target 2X Long DKNG ETF  19.6314   4.601498   NASDAQ  2025-07-29                 36       33             2x delayed_streaming_900
-  CBOE:SMUP SMUP            T-REX 2X Long SMR Daily Target ETF  11.0200  -4.835924     CBOE  2025-07-24                 36       33             2x delayed_streaming_900
   CBOE:CRWU CRWU           T-REX 2X Long CRWV Daily Target ETF  11.3400   3.656307     CBOE  2025-07-24                 36       33             2x delayed_streaming_900
-  CBOE:AMDW AMDW                   Roundhill AMD WeeklyPay ETF  73.4500   4.838710     CBOE  2025-07-23                 36       33          Other delayed_streaming_900
+  CBOE:SMUP SMUP            T-REX 2X Long SMR Daily Target ETF  11.0200  -4.835924     CBOE  2025-07-24                 36       33             2x delayed_streaming_900
   CBOE:GOOW GOOW                 Roundhill GOOGL WeeklyPay ETF  79.6000   1.388358     CBOE  2025-07-23                 36       33          Other delayed_streaming_900
-  CBOE:AVGW AVGW                  Roundhill AVGO WeeklyPay ETF  50.3330   3.268363     CBOE  2025-07-23                 36       33          Other delayed_streaming_900
   CBOE:MSFW MSFW                  Roundhill MSFT WeeklyPay ETF  29.0715  -0.447569     CBOE  2025-07-23                 36       33          Other delayed_streaming_900
+  CBOE:AVGW AVGW                  Roundhill AVGO WeeklyPay ETF  50.3330   3.268363     CBOE  2025-07-23                 36       33          Other delayed_streaming_900
+  CBOE:AMDW AMDW                   Roundhill AMD WeeklyPay ETF  73.4500   4.838710     CBOE  2025-07-23                 36       33          Other delayed_streaming_900
   CBOE:MSTW MSTW                  Roundhill MSTR WeeklyPay ETF   9.2900   1.864035     CBOE  2025-07-23                 36       33          Other delayed_streaming_900
 NASDAQ:UNHG UNHG         Leverage Shares 2X Long UNH Daily ETF  17.9200  -3.759398   NASDAQ  2025-07-21                 36       33             2x delayed_streaming_900
 NASDAQ:VSTL VSTL         Defiance Daily Target 2X Long VST ETF  31.2800  -1.017670   NASDAQ  2025-07-20                 36       33             2x delayed_streaming_900
-NASDAQ:AVGU AVGU          GraniteShares 2x Long AVGO Daily ETF  48.2666   5.190367   NASDAQ  2025-07-14                 36       33             2x delayed_streaming_900
 NASDAQ:NOWL NOWL           GraniteShares 2x Long NOW Daily ETF   4.1900   0.000000   NASDAQ  2025-07-14                 36       33             2x delayed_streaming_900
 NASDAQ:PDDL PDDL           GraniteShares 2x Long PDD Daily ETF  19.1783  -2.026564   NASDAQ  2025-07-14                 36       33             2x delayed_streaming_900
+NASDAQ:AVGU AVGU          GraniteShares 2x Long AVGO Daily ETF  48.2666   5.190367   NASDAQ  2025-07-14                 36       33             2x delayed_streaming_900
    CBOE:SMU  SMU                   Tradr 2X Long SMR Daily ETF  14.5400  -3.963012     CBOE  2025-07-10                 36       33             2x delayed_streaming_900
 NASDAQ:AALG AALG         Leverage Shares 2X Long AAL Daily ETF  10.2226   9.757564   NASDAQ  2025-07-10                 36       33             2x delayed_streaming_900
   CBOE:ASTX ASTX                  Tradr 2X Long ASTS Daily ETF  19.8700 -13.269315     CBOE  2025-07-09                 36       33             2x delayed_streaming_900
   CBOE:CEGX CEGX                   Tradr 2X Long CEG Daily ETF  20.3600  -0.049092     CBOE  2025-07-09                 36       33             2x delayed_streaming_900
   CBOE:CWVX CWVX                  Tradr 2X Long CRWV Daily ETF  48.9400   3.423500     CBOE  2025-07-09                 36       33             2x delayed_streaming_900
   CBOE:GEVX GEVX                   Tradr 2X Long GEV Daily ETF  79.1300   3.100977     CBOE  2025-07-09                 36       33             2x delayed_streaming_900
-NASDAQ:CSCS CSCS               Direxion Daily CSCO Bear 1X ETF  17.1797  -1.717963   NASDAQ  2025-06-24                 36       33           None delayed_streaming_900
 NASDAQ:QCMU QCMU               Direxion Daily QCOM Bull 2X ETF  28.7800  21.281079   NASDAQ  2025-06-24                 36       33             2x delayed_streaming_900
+NASDAQ:CSCS CSCS               Direxion Daily CSCO Bear 1X ETF  17.1797  -1.717963   NASDAQ  2025-06-24                 36       33           None delayed_streaming_900
 NASDAQ:CSCL CSCL               Direxion Daily CSCO Bull 2X ETF  42.1255   3.575494   NASDAQ  2025-06-24                 36       33             2x delayed_streaming_900
 NASDAQ:QCMD QCMD               Direxion Daily QCOM Bear 1X ETF  18.5587 -10.782344   NASDAQ  2025-06-24                 36       33           None delayed_streaming_900
-  CBOE:RGTU RGTU                  Tradr 2X Long RGTI Daily ETF  22.5200   5.037313     CBOE  2025-06-22                 36       33             2x delayed_streaming_900
-NASDAQ:OKLL OKLL        Defiance Daily Target 2x Long OKLO ETF  10.1400  -0.782779   NASDAQ  2025-06-22                 36       33             2x delayed_streaming_900
 NASDAQ:IONZ IONZ       Defiance Daily Target 2x Short IONQ ETF   5.7000 -10.094637   NASDAQ  2025-06-22                 36       33             2x delayed_streaming_900
 NASDAQ:SOUX SOUX        Defiance Daily Target 2X Long SOUN ETF  26.3000  -6.968518   NASDAQ  2025-06-22                 36       33             2x delayed_streaming_900
+NASDAQ:OKLL OKLL        Defiance Daily Target 2x Long OKLO ETF  10.1400  -0.782779   NASDAQ  2025-06-22                 36       33             2x delayed_streaming_900
   CBOE:QUBX QUBX                  Tradr 2X Long QUBT Daily ETF  13.5400   0.969426     CBOE  2025-06-22                 36       33             2x delayed_streaming_900
-  CBOE:HOOW HOOW                  Roundhill HOOD WeeklyPay ETF  23.5100   0.728363     CBOE  2025-06-17                 36       33          Other delayed_streaming_900
-  CBOE:BRKW BRKW                  Roundhill BRKB WeeklyPay ETF  37.8513  -0.623804     CBOE  2025-06-17                 36       33          Other delayed_streaming_900
-  CBOE:NFLW NFLW                  Roundhill NFLX WeeklyPay ETF  21.9900  -4.282269     CBOE  2025-06-17                 36       33          Other delayed_streaming_900
+  CBOE:RGTU RGTU                  Tradr 2X Long RGTI Daily ETF  22.5200   5.037313     CBOE  2025-06-22                 36       33             2x delayed_streaming_900
   CBOE:METW METW                  Roundhill META WeeklyPay ETF  27.9450  -1.198557     CBOE  2025-06-17                 36       33          Other delayed_streaming_900
+  CBOE:BRKW BRKW                  Roundhill BRKB WeeklyPay ETF  37.8513  -0.623804     CBOE  2025-06-17                 36       33          Other delayed_streaming_900
   CBOE:AMZW AMZW                  Roundhill AMZN WeeklyPay ETF  44.9600   0.834531     CBOE  2025-06-17                 36       33          Other delayed_streaming_900
+  CBOE:HOOW HOOW                  Roundhill HOOD WeeklyPay ETF  23.5100   0.728363     CBOE  2025-06-17                 36       33          Other delayed_streaming_900
+  CBOE:NFLW NFLW                  Roundhill NFLX WeeklyPay ETF  21.9900  -4.282269     CBOE  2025-06-17                 36       33          Other delayed_streaming_900
 NASDAQ:BOEG BOEG          Leverage Shares 2X Long BA Daily ETF  15.0000   2.647624   NASDAQ  2025-06-12                 36       33             2x delayed_streaming_900
 NASDAQ:KMLI KMLI            KraneShares 2x Long MELI Daily ETF  10.1905   0.274536   NASDAQ  2025-06-10                 36       33             2x delayed_streaming_900
-NASDAQ:MSDD MSDD         GraniteShares 2x Short MSTR Daily ETF  25.6816  -3.608453   NASDAQ  2025-06-08                 36       33             2x delayed_streaming_900
-  CBOE:ARCX ARCX                  Tradr 2X Long ACHR Daily ETF  18.0397   2.860645     CBOE  2025-06-08                 36       33             2x delayed_streaming_900
-  CBOE:UPSX UPSX                  Tradr 2X Long UPST Daily ETF  19.7000  -5.151661     CBOE  2025-06-08                 36       33             2x delayed_streaming_900
 NASDAQ:MSTP MSTP          GraniteShares 2x Long MSTR Daily ETF  60.2854   3.638364   NASDAQ  2025-06-08                 36       33             2x delayed_streaming_900
+  CBOE:ARCX ARCX                  Tradr 2X Long ACHR Daily ETF  18.0397   2.860645     CBOE  2025-06-08                 36       33             2x delayed_streaming_900
+NASDAQ:MSDD MSDD         GraniteShares 2x Short MSTR Daily ETF  25.6816  -3.608453   NASDAQ  2025-06-08                 36       33             2x delayed_streaming_900
+  CBOE:UPSX UPSX                  Tradr 2X Long UPST Daily ETF  19.7000  -5.151661     CBOE  2025-06-08                 36       33             2x delayed_streaming_900
 NASDAQ:RTXG RTXG         Leverage Shares 2X Long RTX Daily ETF  18.9815  -0.586587   NASDAQ  2025-06-05                 36       33             2x delayed_streaming_900
 NASDAQ:PLTZ PLTZ       Defiance Daily Target 2x Short PLTR ETF  30.9100  14.016968   NASDAQ  2025-06-04                 36       33             2x delayed_streaming_900
 NASDAQ:CVNX CVNX        Defiance Daily Target 2X Long CVNA ETF  17.2825   1.240129   NASDAQ  2025-05-27                 36       33             2x delayed_streaming_900
@@ -223,50 +223,50 @@ NASDAQ:AVGG AVGG        Leverage Shares 2X Long AVGO Daily ETF  37.7000   5.4250
   CBOE:TEMT TEMT                   Tradr 2X Long TEM Daily ETF  23.8700  -5.986609     CBOE  2025-05-11                 36       33             2x delayed_streaming_900
  NASDAQ:MST  MST     Defiance Leveraged Long + Income MSTR ETF  36.9200   3.055374   NASDAQ  2025-04-30                 36       33       Variable delayed_streaming_900
 NASDAQ:PLTG PLTG        Leverage Shares 2X Long PLTR Daily ETF  13.1500 -13.826999   NASDAQ  2025-04-24                 36       33             2x delayed_streaming_900
-  CBOE:QBTX QBTX                  Tradr 2X Long QBTS Daily ETF  15.5600   4.851752     CBOE  2025-04-23                 36       33             2x delayed_streaming_900
   CBOE:SNOU SNOU           T-REX 2X Long SNOW Daily Target ETF  14.6900  -2.650762     CBOE  2025-04-23                 36       33             2x delayed_streaming_900
-NASDAQ:APPX APPX                   Tradr 2X Long APP Daily ETF  37.8800   0.878828   NASDAQ  2025-04-23                 36       33             2x delayed_streaming_900
   CBOE:GMEU GMEU            T-REX 2X Long GME Daily Target ETF  10.6800   2.495202     CBOE  2025-04-23                 36       33             2x delayed_streaming_900
+NASDAQ:APPX APPX                   Tradr 2X Long APP Daily ETF  37.8800   0.878828   NASDAQ  2025-04-23                 36       33             2x delayed_streaming_900
+  CBOE:QBTX QBTX                  Tradr 2X Long QBTS Daily ETF  15.5600   4.851752     CBOE  2025-04-23                 36       33             2x delayed_streaming_900
 NASDAQ:XOMX XOMX                Direxion Daily XOM Bull 2X ETF  45.6759   1.481027   NASDAQ  2025-04-22                 36       33             2x delayed_streaming_900
 NASDAQ:BOEU BOEU                 Direxion Daily BA Bull 2X ETF  37.9138   2.729886   NASDAQ  2025-04-22                 36       33             2x delayed_streaming_900
 NASDAQ:LCDL LCDL          GraniteShares 2x Long LCID Daily ETF   0.8863 -13.107843   NASDAQ  2025-04-20                 36       33             2x delayed_streaming_900
 NASDAQ:RVNL RVNL          GraniteShares 2x Long RIVN Daily ETF  25.8964   0.751265   NASDAQ  2025-04-20                 36       33             2x delayed_streaming_900
+NASDAQ:CRMG CRMG         Leverage Shares 2X Long CRM Daily ETF   6.1400   1.487603   NASDAQ  2025-04-03                 36       33             2x delayed_streaming_900
 NASDAQ:PYPG PYPG        Leverage Shares 2X Long PYPL Daily ETF   6.1150 -15.304709   NASDAQ  2025-04-03                 36       33             2x delayed_streaming_900
 NASDAQ:XYZG XYZG         Leverage Shares 2X Long XYZ Daily ETF  15.2047  -1.968407   NASDAQ  2025-04-03                 36       33             2x delayed_streaming_900
-NASDAQ:CRMG CRMG         Leverage Shares 2X Long CRM Daily ETF   6.1400   1.487603   NASDAQ  2025-04-03                 36       33             2x delayed_streaming_900
-NASDAQ:SMCZ SMCZ       Defiance Daily Target 2X Short SMCI ETF  26.1506   0.886547   NASDAQ  2025-03-30                 36       33             2x delayed_streaming_900
 NASDAQ:RGTX RGTX        Defiance Daily Target 2X Long RGTI ETF  22.5900   5.659495   NASDAQ  2025-03-30                 36       33             2x delayed_streaming_900
+NASDAQ:SMCZ SMCZ       Defiance Daily Target 2X Short SMCI ETF  26.1506   0.886547   NASDAQ  2025-03-30                 36       33             2x delayed_streaming_900
 NASDAQ:PALD PALD               Direxion Daily PANW Bear 1X ETF  22.9226   0.369556   NASDAQ  2025-03-25                 36       33           None delayed_streaming_900
-NASDAQ:PALU PALU               Direxion Daily PANW Bull 2X ETF  16.0600  -1.007187   NASDAQ  2025-03-25                 36       33             2x delayed_streaming_900
 NASDAQ:ELIL ELIL                Direxion Daily LLY Bull 2X ETF  21.8009   4.277597   NASDAQ  2025-03-25                 36       33             2x delayed_streaming_900
-NASDAQ:RDTL RDTL          GraniteShares 2x Long RDDT Daily ETF  22.5900   2.822030   NASDAQ  2025-03-24                 36       33             2x delayed_streaming_900
-NASDAQ:IONL IONL          GraniteShares 2x Long IONQ Daily ETF  26.8500   9.547124   NASDAQ  2025-03-24                 36       33             2x delayed_streaming_900
+NASDAQ:PALU PALU               Direxion Daily PANW Bull 2X ETF  16.0600  -1.007187   NASDAQ  2025-03-25                 36       33             2x delayed_streaming_900
 NASDAQ:VRTL VRTL           GraniteShares 2x Long VRT Daily ETF 179.3700   5.798042   NASDAQ  2025-03-24                 36       33             2x delayed_streaming_900
-NASDAQ:ADBG ADBG        Leverage Shares 2X Long ADBE Daily ETF   4.9300   1.024590   NASDAQ  2025-03-20                 36       33             2x delayed_streaming_900
-NASDAQ:HOOG HOOG        Leverage Shares 2X Long HOOD Daily ETF  19.7000   1.233299   NASDAQ  2025-03-20                 36       33             2x delayed_streaming_900
+NASDAQ:IONL IONL          GraniteShares 2x Long IONQ Daily ETF  26.8500   9.547124   NASDAQ  2025-03-24                 36       33             2x delayed_streaming_900
+NASDAQ:RDTL RDTL          GraniteShares 2x Long RDDT Daily ETF  22.5900   2.822030   NASDAQ  2025-03-24                 36       33             2x delayed_streaming_900
 NASDAQ:PANG PANG        Leverage Shares 2X Long PANW Daily ETF   9.9295  -0.695070   NASDAQ  2025-03-20                 36       33             2x delayed_streaming_900
+NASDAQ:HOOG HOOG        Leverage Shares 2X Long HOOD Daily ETF  19.7000   1.233299   NASDAQ  2025-03-20                 36       33             2x delayed_streaming_900
+NASDAQ:ADBG ADBG        Leverage Shares 2X Long ADBE Daily ETF   4.9300   1.024590   NASDAQ  2025-03-20                 36       33             2x delayed_streaming_900
 NASDAQ:HOOX HOOX        Defiance Daily Target 2X Long HOOD ETF  22.5100   2.161225   NASDAQ  2025-03-17                 36       33             2x delayed_streaming_900
   AMEX:ARMH ARMH                              Arm Holdings PLC  87.0394   2.459564     AMEX  2025-03-13                 36       33           None delayed_streaming_900
 NASDAQ:COIG COIG        Leverage Shares 2X Long COIN Daily ETF   8.4300  -5.174353   NASDAQ  2025-03-13                 36       33             2x delayed_streaming_900
   AMEX:ASMH ASMH                               ASML Holding NV  97.2952   3.853884     AMEX  2025-03-12                 36       33           None delayed_streaming_900
-  AMEX:STHH STHH                         STMicroelectronics NV 112.8910   3.729888     AMEX  2025-03-12                 36       33           None delayed_streaming_900
    AMEX:TMH  TMH                      Toyota Motor Corporation  51.4451   1.303384     AMEX  2025-03-12                 36       33           None delayed_streaming_900
+  AMEX:STHH STHH                         STMicroelectronics NV 112.8910   3.729888     AMEX  2025-03-12                 36       33           None delayed_streaming_900
 NASDAQ:RKLX RKLX        Defiance Daily Target 2X Long RKLB ETF  35.9600  -3.773080   NASDAQ  2025-03-11                 36       33             2x delayed_streaming_900
 NASDAQ:HIMZ HIMZ        Defiance Daily Target 2X Long HIMS ETF  33.4200  -7.372506   NASDAQ  2025-03-11                 36       33             2x delayed_streaming_900
-NASDAQ:KPDD KPDD             KraneShares 2x Long PDD Daily ETF   7.7987  -2.224145   NASDAQ  2025-03-10                 36       33             2x delayed_streaming_900
 NASDAQ:KBAB KBAB            KraneShares 2x Long BABA Daily ETF  10.5763  -1.802161   NASDAQ  2025-03-10                 36       33             2x delayed_streaming_900
+NASDAQ:KPDD KPDD             KraneShares 2x Long PDD Daily ETF   7.7987  -2.224145   NASDAQ  2025-03-10                 36       33             2x delayed_streaming_900
 NASDAQ:IONX IONX        Defiance Daily Target 2X Long IONQ ETF  51.4500   9.935897   NASDAQ  2025-03-10                 36       33             2x delayed_streaming_900
-NASDAQ:MRAL MRAL          GraniteShares 2x Long MARA Daily ETF  59.6694   4.811874   NASDAQ  2025-03-06                 36       33             2x delayed_streaming_900
 NASDAQ:MVLL MVLL          GraniteShares 2x Long MRVL Daily ETF  71.6400   6.559572   NASDAQ  2025-03-06                 36       33             2x delayed_streaming_900
+NASDAQ:MRAL MRAL          GraniteShares 2x Long MARA Daily ETF  59.6694   4.811874   NASDAQ  2025-03-06                 36       33             2x delayed_streaming_900
   CBOE:RBLU RBLU           T-REX 2X Long RBLX Daily Target ETF   6.5200 -14.771242     CBOE  2025-03-03                 36       33             2x delayed_streaming_900
   CBOE:DJTU DJTU            T-REX 2X Long DJT Daily Target ETF   1.4900  -1.324503     CBOE  2025-03-03                 36       33             2x delayed_streaming_900
-  CBOE:NVDW NVDW                  Roundhill NVDA WeeklyPay ETF  37.3400  -1.334390     CBOE  2025-02-18                 36       33          Other delayed_streaming_900
   CBOE:TSLW TSLW                  Roundhill TSLA WeeklyPay ETF  23.6600  -0.713386     CBOE  2025-02-18                 36       33          Other delayed_streaming_900
-  CBOE:AAPW AAPW                  Roundhill AAPL WeeklyPay ETF  38.2354   3.023722     CBOE  2025-02-18                 36       33          Other delayed_streaming_900
+  CBOE:NVDW NVDW                  Roundhill NVDA WeeklyPay ETF  37.3400  -1.334390     CBOE  2025-02-18                 36       33          Other delayed_streaming_900
   CBOE:COIW COIW                  Roundhill COIN WeeklyPay ETF  13.1600  -3.092784     CBOE  2025-02-18                 36       33          Other delayed_streaming_900
+  CBOE:AAPW AAPW                  Roundhill AAPL WeeklyPay ETF  38.2354   3.023722     CBOE  2025-02-18                 36       33          Other delayed_streaming_900
   CBOE:PLTW PLTW                  Roundhill PLTR WeeklyPay ETF  21.8700  -8.760951     CBOE  2025-02-18                 36       33          Other delayed_streaming_900
-NASDAQ:QCML QCML          GraniteShares 2x Long QCOM Daily ETF  23.2800  21.630094   NASDAQ  2025-02-12                 36       33             2x delayed_streaming_900
 NASDAQ:DLLL DLLL          GraniteShares 2x Long DELL Daily ETF  59.5262   4.641028   NASDAQ  2025-02-12                 36       33             2x delayed_streaming_900
+NASDAQ:QCML QCML          GraniteShares 2x Long QCOM Daily ETF  23.2800  21.630094   NASDAQ  2025-02-12                 36       33             2x delayed_streaming_900
 NASDAQ:INTW INTW          GraniteShares 2x Long INTC Daily ETF 278.7100  26.130244   NASDAQ  2025-02-12                 36       33             2x delayed_streaming_900
 NASDAQ:AMUU AMUU                Direxion Daily AMD Bull 2X ETF 123.7000   8.186112   NASDAQ  2025-02-11                 36       33             2x delayed_streaming_900
 NASDAQ:AMDD AMDD                Direxion Daily AMD Bear 1X ETF   4.9000  -3.921569   NASDAQ  2025-02-11                 36       33           None delayed_streaming_900
@@ -275,68 +275,68 @@ NASDAQ:ORCX ORCX        Defiance Daily Target 2X Long ORCL ETF  40.7300   5.6549
 NASDAQ:AMDG AMDG         Leverage Shares 2X Long AMD Daily ETF  59.9500   8.252077   NASDAQ  2025-01-23                 36       33             2x delayed_streaming_900
 NASDAQ:SOFX SOFX        Defiance Daily Target 2X Long SOFI ETF   8.8700  -2.312775   NASDAQ  2025-01-14                 36       33             2x delayed_streaming_900
 NASDAQ:TSMG TSMG         Leverage Shares 2X Long TSM Daily ETF  36.6200  -4.035639   NASDAQ  2025-01-13                 36       33             2x delayed_streaming_900
-NASDAQ:ARMG ARMG         Leverage Shares 2X Long ARM Daily ETF  17.2400   5.443425   NASDAQ  2025-01-13                 36       33             2x delayed_streaming_900
 NASDAQ:ASMG ASMG        Leverage Shares 2X Long ASML Daily ETF  37.0300   7.990668   NASDAQ  2025-01-13                 36       33             2x delayed_streaming_900
+NASDAQ:ARMG ARMG         Leverage Shares 2X Long ARM Daily ETF  17.2400   5.443425   NASDAQ  2025-01-13                 36       33             2x delayed_streaming_900
   AMEX:NVOH NVOH                     Novo Nordisk A/S B Shares  24.6295   0.860381     AMEX  2025-01-06                 36       33           None delayed_streaming_900
+  AMEX:SAPH SAPH                                        SAP SE  32.2605   1.992071     AMEX  2025-01-06                 36       33           None delayed_streaming_900
   AMEX:GSKH GSKH                                       GSK plc  69.9861  -0.999818     AMEX  2025-01-06                 36       33           None delayed_streaming_900
    AMEX:BPH  BPH                                        BP plc  71.2514  -0.846787     AMEX  2025-01-06                 36       33           None delayed_streaming_900
-  AMEX:SAPH SAPH                                        SAP SE  32.2605   1.992071     AMEX  2025-01-06                 36       33           None delayed_streaming_900
   AMEX:RIOX RIOX        Defiance Daily Target 2X Long RIOT ETF  36.6400  17.435897     AMEX  2025-01-01                 36       33             2x delayed_streaming_900
-NASDAQ:TSLG TSLG        Leverage Shares 2X Long TSLA Daily ETF   6.3900  -1.540832   NASDAQ  2024-12-12                 36       33             2x delayed_streaming_900
 NASDAQ:NVDG NVDG        Leverage Shares 2X Long NVDA Daily ETF  17.1800  -2.206891   NASDAQ  2024-12-12                 36       33             2x delayed_streaming_900
+NASDAQ:TSLG TSLG        Leverage Shares 2X Long TSLA Daily ETF   6.3900  -1.540832   NASDAQ  2024-12-12                 36       33             2x delayed_streaming_900
 NASDAQ:SMCL SMCL          GraniteShares 2x Long SMCI Daily ETF  48.1348  -0.321392   NASDAQ  2024-12-11                 36       33             2x delayed_streaming_900
+NASDAQ:BRKU BRKU               Direxion Daily BRKB Bull 2X ETF  20.3676  -1.367554   NASDAQ  2024-12-10                 36       33             2x delayed_streaming_900
 NASDAQ:PLTD PLTD               Direxion Daily PLTR Bear 1X ETF   7.9100   6.891892   NASDAQ  2024-12-10                 36       33           None delayed_streaming_900
 NASDAQ:PLTU PLTU               Direxion Daily PLTR Bull 2X ETF  36.8000 -14.078917   NASDAQ  2024-12-10                 36       33             2x delayed_streaming_900
-NASDAQ:BRKU BRKU               Direxion Daily BRKB Bull 2X ETF  20.3676  -1.367554   NASDAQ  2024-12-10                 36       33             2x delayed_streaming_900
   AMEX:NVOX NVOX         Defiance Daily Target 2X Long NVO ETF  14.7100   2.011096     AMEX  2024-12-02                 36       33             2x delayed_streaming_900
-NASDAQ:MULL MULL            GraniteShares 2x Long MU Daily ETF 357.9800  21.952715   NASDAQ  2024-11-10                 36       33             2x delayed_streaming_900
-NASDAQ:TSMU TSMU           GraniteShares 2x Long TSM Daily ETF  66.7033  -3.258448   NASDAQ  2024-11-10                 36       33             2x delayed_streaming_900
 NASDAQ:CRWL CRWL          GraniteShares 2x Long CRWD Daily ETF  27.1084   3.058090   NASDAQ  2024-11-10                 36       33             2x delayed_streaming_900
- NASDAQ:MUD  MUD                 Direxion Daily MU Bear 1X ETF  21.8700 -11.061407   NASDAQ  2024-10-09                 36       33           None delayed_streaming_900
+NASDAQ:TSMU TSMU           GraniteShares 2x Long TSM Daily ETF  66.7033  -3.258448   NASDAQ  2024-11-10                 36       33             2x delayed_streaming_900
+NASDAQ:MULL MULL            GraniteShares 2x Long MU Daily ETF 357.9800  21.952715   NASDAQ  2024-11-10                 36       33             2x delayed_streaming_900
  NASDAQ:MUU  MUU                 Direxion Daily MU Bull 2X ETF 407.8500  22.125404   NASDAQ  2024-10-09                 36       33             2x delayed_streaming_900
  NASDAQ:AVS  AVS               Direxion Daily AVGO Bear 1X ETF   7.3250  -2.593085   NASDAQ  2024-10-09                 36       33           None delayed_streaming_900
+ NASDAQ:MUD  MUD                 Direxion Daily MU Bear 1X ETF  21.8700 -11.061407   NASDAQ  2024-10-09                 36       33           None delayed_streaming_900
+NASDAQ:TSMZ TSMZ                Direxion Daily TSM Bear 1X ETF   8.9300   2.057143   NASDAQ  2024-10-02                 36       33           None delayed_streaming_900
 NASDAQ:NFXS NFXS               Direxion Daily NFLX Bear 1X ETF  17.7359   3.458555   NASDAQ  2024-10-02                 36       33           None delayed_streaming_900
 NASDAQ:NFXL NFXL               Direxion Daily NFLX Bull 2X ETF  24.5000  -6.985573   NASDAQ  2024-10-02                 36       33             2x delayed_streaming_900
 NASDAQ:TSMX TSMX                Direxion Daily TSM Bull 2X ETF  75.8800  -3.693362   NASDAQ  2024-10-02                 36       33             2x delayed_streaming_900
-NASDAQ:TSMZ TSMZ                Direxion Daily TSM Bear 1X ETF   8.9300   2.057143   NASDAQ  2024-10-02                 36       33           None delayed_streaming_900
   CBOE:NFLU NFLU           T-Rex 2X Long NFLX Daily Target ETF  25.9500  -6.721783     CBOE  2024-09-26                 36       33             2x delayed_streaming_900
   CBOE:MSTZ MSTZ        T-Rex 2X Inverse MSTR Daily Target ETF   4.7400  -2.968270     CBOE  2024-09-17                 36       33             2x delayed_streaming_900
   CBOE:MSTU MSTU           T-Rex 2X Long MSTR Daily Target ETF   8.8400   3.150525     CBOE  2024-09-17                 36       33             2x delayed_streaming_900
-NASDAQ:UBRL UBRL          GraniteShares 2x Long UBER Daily ETF  15.9900  -2.371416   NASDAQ  2024-09-02                 36       33             2x delayed_streaming_900
 NASDAQ:PTIR PTIR          GraniteShares 2x Long PLTR Daily ETF  13.5900 -13.987342   NASDAQ  2024-09-02                 36       33             2x delayed_streaming_900
+NASDAQ:UBRL UBRL          GraniteShares 2x Long UBER Daily ETF  15.9900  -2.371416   NASDAQ  2024-09-02                 36       33             2x delayed_streaming_900
 NASDAQ:CONI CONI         GraniteShares 2x Short COIN Daily ETF  43.0300   5.156403   NASDAQ  2024-09-02                 36       33             2x delayed_streaming_900
-NASDAQ:AVGX AVGX        Defiance Daily Target 2X Long AVGO ETF  64.7600   5.266580   NASDAQ  2024-08-20                 36       33             2x delayed_streaming_900
 NASDAQ:SMCX SMCX        Defiance Daily Target 2X Long SMCI ETF  11.8500  -0.420168   NASDAQ  2024-08-20                 36       33             2x delayed_streaming_900
+NASDAQ:AVGX AVGX        Defiance Daily Target 2X Long AVGO ETF  64.7600   5.266580   NASDAQ  2024-08-20                 36       33             2x delayed_streaming_900
 NASDAQ:SMST SMST       Defiance Daily Target 2x Short MSTR ETF  24.5050  -3.257008   NASDAQ  2024-08-19                 36       33             2x delayed_streaming_900
 NASDAQ:MSTX MSTX        Defiance Daily Target 2x Long MSTR ETF  40.6600   3.067174   NASDAQ  2024-08-13                 36       33             2x delayed_streaming_900
   AMEX:LLYX LLYX         Defiance Daily Target 2X Long LLY ETF  19.3800   4.137560     AMEX  2024-08-06                 36       33             2x delayed_streaming_900
 NASDAQ:METD METD               Direxion Daily META Bear 1X ETF  16.5632   0.995122   NASDAQ  2024-06-04                 36       33           None delayed_streaming_900
 NASDAQ:METU METU               Direxion Daily META Bull 2X ETF  24.3800  -1.851852   NASDAQ  2024-06-04                 36       33             2x delayed_streaming_900
 NASDAQ:AMDL AMDL           GraniteShares 2x Long AMD Daily ETF  35.3400   8.172635   NASDAQ  2024-03-03                 36       33             2x delayed_streaming_900
-NASDAQ:MSFL MSFL          GraniteShares 2x Long MSFT Daily ETF  18.4655  -1.148287   NASDAQ  2024-03-03                 36       33             2x delayed_streaming_900
 NASDAQ:AMZZ AMZZ          GraniteShares 2x Long AMZN Daily ETF  41.7900   1.777886   NASDAQ  2024-03-03                 36       33             2x delayed_streaming_900
-  CBOE:GOOX GOOX       T-Rex 2X Long Alphabet Daily Target ETF  97.9400   2.394145     CBOE  2024-01-10                 36       33             2x delayed_streaming_900
+NASDAQ:MSFL MSFL          GraniteShares 2x Long MSFT Daily ETF  18.4655  -1.148287   NASDAQ  2024-03-03                 36       33             2x delayed_streaming_900
   CBOE:AAPX AAPX          T-Rex 2X Long Apple Daily Target ETF  31.3900   5.370930     CBOE  2024-01-10                 36       33             2x delayed_streaming_900
   CBOE:MSFX MSFX      T-Rex 2X Long Microsoft Daily Target ETF  18.4100  -1.180891     CBOE  2024-01-10                 36       33             2x delayed_streaming_900
-NASDAQ:NVDU NVDU               Direxion Daily NVDA Bull 2X ETF 120.3900  -2.153771   NASDAQ  2023-09-12                 36       33             2x delayed_streaming_900
+  CBOE:GOOX GOOX       T-Rex 2X Long Alphabet Daily Target ETF  97.9400   2.394145     CBOE  2024-01-10                 36       33             2x delayed_streaming_900
 NASDAQ:NVDD NVDD               Direxion Daily NVDA Bear 1X ETF  35.5600   1.051435   NASDAQ  2023-09-12                 36       33           None delayed_streaming_900
+NASDAQ:NVDU NVDU               Direxion Daily NVDA Bull 2X ETF 120.3900  -2.153771   NASDAQ  2023-09-12                 36       33             2x delayed_streaming_900
 NASDAQ:TSLR TSLR          GraniteShares 2x Long TSLA Daily ETF  22.1200  -1.601423   NASDAQ  2023-08-21                 36       33             2x delayed_streaming_900
- NASDAQ:NVD  NVD         GraniteShares 2x Short NVDA Daily ETF   5.8100   2.108963   NASDAQ  2023-08-20                 36       33             2x delayed_streaming_900
 NASDAQ:TSDD TSDD         GraniteShares 2x Short TSLA Daily ETF   9.1200   1.785714   NASDAQ  2023-08-20                 36       33             2x delayed_streaming_900
+ NASDAQ:NVD  NVD         GraniteShares 2x Short NVDA Daily ETF   5.8100   2.108963   NASDAQ  2023-08-20                 36       33             2x delayed_streaming_900
  NASDAQ:FBL  FBL          GraniteShares 2x Long META Daily ETF  24.9900  -1.807466   NASDAQ  2022-12-12                 36       33             2x delayed_streaming_900
-NASDAQ:BABX BABX          GraniteShares 2x Long BABA Daily ETF  26.9300  -1.607600   NASDAQ  2022-12-12                 36       33             2x delayed_streaming_900
 NASDAQ:NVDL NVDL          GraniteShares 2x Long NVDA Daily ETF  90.3600  -2.218375   NASDAQ  2022-12-12                 36       33             2x delayed_streaming_900
+NASDAQ:BABX BABX          GraniteShares 2x Long BABA Daily ETF  26.9300  -1.607600   NASDAQ  2022-12-12                 36       33             2x delayed_streaming_900
+NASDAQ:GGLS GGLS              Direxion Daily GOOGL Bear 1X ETF   5.3300  -1.296296   NASDAQ  2022-09-06                 36       33           None delayed_streaming_900
 NASDAQ:GGLL GGLL              Direxion Daily GOOGL Bull 2X ETF 139.2800   2.744172   NASDAQ  2022-09-06                 36       33             2x delayed_streaming_900
-NASDAQ:MSFD MSFD               Direxion Daily MSFT Bear 1X ETF  13.2197   0.517043   NASDAQ  2022-09-06                 36       33           None delayed_streaming_900
 NASDAQ:AMZD AMZD               Direxion Daily AMZN Bear 1X ETF   8.3400  -0.595948   NASDAQ  2022-09-06                 36       33           None delayed_streaming_900
 NASDAQ:MSFU MSFU               Direxion Daily MSFT Bull 2X ETF  27.8900  -1.204392   NASDAQ  2022-09-06                 36       33             2x delayed_streaming_900
-NASDAQ:GGLS GGLS              Direxion Daily GOOGL Bear 1X ETF   5.3300  -1.296296   NASDAQ  2022-09-06                 36       33           None delayed_streaming_900
-NASDAQ:AAPB AAPB          GraniteShares 2x Long AAPL Daily ETF  33.4973   5.403713   NASDAQ  2022-08-08                 36       33             2x delayed_streaming_900
-NASDAQ:TSLL TSLL               Direxion Daily TSLA Bull 2X ETF  12.9600  -1.669196   NASDAQ  2022-08-08                 36       33             2x delayed_streaming_900
-NASDAQ:AAPD AAPD               Direxion Daily AAPL Bear 1X ETF  12.4600  -2.580141   NASDAQ  2022-08-08                 36       33           None delayed_streaming_900
- NASDAQ:TSL  TSL       GraniteShares 1.25x Long TSLA Daily ETF  15.3300  -1.032924   NASDAQ  2022-08-08                 36       33          1.25x delayed_streaming_900
-NASDAQ:TSLS TSLS               Direxion Daily TSLA Bear 1X ETF  57.0600   0.812721   NASDAQ  2022-08-08                 36       33           None delayed_streaming_900
+NASDAQ:MSFD MSFD               Direxion Daily MSFT Bear 1X ETF  13.2197   0.517043   NASDAQ  2022-09-06                 36       33           None delayed_streaming_900
 NASDAQ:AAPU AAPU               Direxion Daily AAPL Bull 2X ETF  34.6800   5.314303   NASDAQ  2022-08-08                 36       33             2x delayed_streaming_900
+NASDAQ:AAPD AAPD               Direxion Daily AAPL Bear 1X ETF  12.4600  -2.580141   NASDAQ  2022-08-08                 36       33           None delayed_streaming_900
 NASDAQ:CONL CONL          GraniteShares 2x Long COIN Daily ETF   8.5500  -5.210643   NASDAQ  2022-08-08                 36       33             2x delayed_streaming_900
+NASDAQ:TSLL TSLL               Direxion Daily TSLA Bull 2X ETF  12.9600  -1.669196   NASDAQ  2022-08-08                 36       33             2x delayed_streaming_900
+NASDAQ:TSLS TSLS               Direxion Daily TSLA Bear 1X ETF  57.0600   0.812721   NASDAQ  2022-08-08                 36       33           None delayed_streaming_900
+ NASDAQ:TSL  TSL       GraniteShares 1.25x Long TSLA Daily ETF  15.3300  -1.032924   NASDAQ  2022-08-08                 36       33          1.25x delayed_streaming_900
+NASDAQ:AAPB AAPB          GraniteShares 2x Long AAPL Daily ETF  33.4973   5.403713   NASDAQ  2022-08-08                 36       33             2x delayed_streaming_900
 NASDAQ:NVDS NVDS               Tradr 1.5X Short NVDA Daily ETF  24.4520   1.581129   NASDAQ  2022-07-13                 36       33           1.5x delayed_streaming_900
 NASDAQ:TSLQ TSLQ                 Tradr 2X Short TSLA Daily ETF  21.4800   1.656413   NASDAQ  2022-07-12                 36       33             2x delayed_streaming_900
