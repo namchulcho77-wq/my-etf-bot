@@ -1,5 +1,4 @@
 import tvscreener as tvs
-from tvscreener import SymbolType
 from tvscreener import StockScreener, StockField, FilterOperator
 import pandas as pd
 
@@ -7,7 +6,6 @@ import pandas as pd
 def run_task1():
   #레버리지 ETP
   ss = tvs.StockScreener()
-  ss.set_symbol_types(SymbolType.ETF)
   ss.select(StockField.NAME, StockField.PRICE, StockField.CHANGE_PERCENT, StockField.DESCRIPTION, StockField.EXCHANGE, StockField.LAUNCH_DATE, StockField.SELECTION_CRITERIA,StockField.STRATEGY, StockField.LEVERAGE_RATIO)
 
   ss.where(StockField.LEVERAGED_FLAG == "Leveraged" )           # AND
