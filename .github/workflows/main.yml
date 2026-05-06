@@ -39,3 +39,11 @@ jobs:
       - name: Run script
         run: python etf_screener_20260504.py # 실행할 파일명으로 수정하세요!
 
+      # 5. 생성된 결과 파일(txt)을 저장소에 업데이트
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@://github.com"
+          git add . # 생성되거나 수정된 모든 파일(txt 포함) 추가
+          git commit -m "Auto-update: $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
+          git push
