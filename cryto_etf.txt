@@ -1,123 +1,123 @@
      Symbol  Name                                                              Description    Price  Change % Exchange Launch Date Selection Criteria Strategy           Update Mode
-NASDAQ:BESO  BESO                                                     GSR Crypto Core3 ETF  26.0300  0.943510   NASDAQ  2026-04-20                 16       15 delayed_streaming_900
-  AMEX:BAVA  BAVA                                                    BITWISE AVALANCHE ETF  25.7600  1.947530     AMEX  2026-04-13                 36       33 delayed_streaming_900
-  AMEX:MSBT  MSBT                                                                   Common  23.3500 -0.298890     AMEX  2026-04-06                 36       33 delayed_streaming_900
-  CBOE:CRDD  CRDD                                                              Cardano ETF  21.8000  3.174753     CBOE  2026-03-31                 36       33 delayed_streaming_900
-  CBOE:STLR  STLR                                                              Stellar ETF  19.0754  1.176433     CBOE  2026-03-31                 36       33 delayed_streaming_900
-  CBOE:EHCC  EHCC                                       Global X Ethereum Covered Call ETF  26.3400 -0.082316     CBOE  2026-03-31                 36        4 delayed_streaming_900
-  CBOE:CHNL  CHNL                                                            Chainlink ETF  22.3927  3.690550     CBOE  2026-03-31                 36       33 delayed_streaming_900
-NASDAQ:BHDG  BHDG                                                Nicholas Bitcoin Tail ETF  22.7800 -0.175285   NASDAQ  2026-03-17                 32        1 delayed_streaming_900
-NASDAQ:GAVA  GAVA                                          Grayscale Avalanche Staking ETF  23.1450  1.912314   NASDAQ  2026-03-11                 36       33 delayed_streaming_900
-NASDAQ:TDOT  TDOT                                                    21shares Polkadot ETF  15.7901  2.439990   NASDAQ  2026-03-05                 36       33 delayed_streaming_900
-NASDAQ:TSUI  TSUI                                                         21Shares Sui ETF  19.8800  3.147343   NASDAQ  2026-02-23                 36       33 delayed_streaming_900
-  AMEX:GSUI  GSUI                                                Grayscale Sui Staking ETF  14.3600  3.235083     AMEX  2026-02-17                 36       33 delayed_streaming_900
-NASDAQ:ETHB  ETHB                                        iShares Staked Ethereum Trust ETF  30.1810 -1.110747   NASDAQ  2026-02-17                 36       33 delayed_streaming_900
-NASDAQ:SUIS  SUIS                                                    Canary Staked SUI ETF  25.6500  2.785013   NASDAQ  2026-02-16                 36       33 delayed_streaming_900
-  AMEX:KRYP  KRYP                                         ProShares CoinDesk 20 Crypto ETF  22.7450  1.449599     AMEX  2026-02-03                 24       33 delayed_streaming_900
-NASDAQ:VAVX  VAVX                                                     VanEck Avalanche ETF  19.9600  1.878838   NASDAQ  2026-01-25                 36       33 delayed_streaming_900
-NASDAQ:TDOG  TDOG                                                    21shares Dogecoin ETF  22.8500 -0.106233   NASDAQ  2026-01-21                 36       33 delayed_streaming_900
-  AMEX:CLNK  CLNK                                                    BITWISE CHAINLINK ETF  18.1350  2.436793     AMEX  2026-01-12                 36       33 delayed_streaming_900
-NASDAQ:OBTC  OBTC                                                     Osprey Bitcoin Trust  26.1000 -0.511546   NASDAQ  2025-12-18                 36       33 delayed_streaming_900
-  CBOE:QSOL  QSOL                                                Invesco Galaxy Solana ETF   8.9850  3.229587     CBOE  2025-12-14                 36       33 delayed_streaming_900
-  CBOE:TOXR  TOXR                                                         21Shares XRP ETF  13.9200  1.015965     CBOE  2025-12-10                 36       33 delayed_streaming_900
+NASDAQ:BESO  BESO                                                     GSR Crypto Core3 ETF  25.9866  0.775206   NASDAQ  2026-04-20                 16       15 delayed_streaming_900
+  AMEX:BAVA  BAVA                                                    BITWISE AVALANCHE ETF  25.8371  2.252660     AMEX  2026-04-13                 36       33 delayed_streaming_900
+  AMEX:MSBT  MSBT                                                                   Common  23.3700 -0.213493     AMEX  2026-04-06                 36       33 delayed_streaming_900
+  CBOE:STLR  STLR                                                              Stellar ETF  19.3454  1.415436     CBOE  2026-03-31                 36       33 delayed_streaming_900
+  CBOE:CRDD  CRDD                                                              Cardano ETF  21.8416  3.371637     CBOE  2026-03-31                 36       33 delayed_streaming_900
+  CBOE:EHCC  EHCC                                       Global X Ethereum Covered Call ETF  26.2800 -0.309919     CBOE  2026-03-31                 36        4 delayed_streaming_900
+  CBOE:CHNL  CHNL                                                            Chainlink ETF  23.0414  2.896926     CBOE  2026-03-31                 36       33 delayed_streaming_900
+NASDAQ:BHDG  BHDG                                                Nicholas Bitcoin Tail ETF  22.7900 -0.131464   NASDAQ  2026-03-17                 32        1 delayed_streaming_900
+NASDAQ:GAVA  GAVA                                          Grayscale Avalanche Staking ETF  23.2145  2.218338   NASDAQ  2026-03-11                 36       33 delayed_streaming_900
+NASDAQ:TDOT  TDOT                                                    21shares Polkadot ETF  15.8465  2.805891   NASDAQ  2026-03-05                 36       33 delayed_streaming_900
+NASDAQ:TSUI  TSUI                                                         21Shares Sui ETF  19.9010  3.256301   NASDAQ  2026-02-23                 36       33 delayed_streaming_900
+  AMEX:GSUI  GSUI                                                Grayscale Sui Staking ETF  14.4046  3.555715     AMEX  2026-02-17                 36       33 delayed_streaming_900
+NASDAQ:ETHB  ETHB                                        iShares Staked Ethereum Trust ETF  30.2000 -1.048493   NASDAQ  2026-02-17                 36       33 delayed_streaming_900
+NASDAQ:SUIS  SUIS                                                    Canary Staked SUI ETF  25.7716  3.272290   NASDAQ  2026-02-16                 36       33 delayed_streaming_900
+  AMEX:KRYP  KRYP                                         ProShares CoinDesk 20 Crypto ETF  22.9948  1.098263     AMEX  2026-02-03                 24       33 delayed_streaming_900
+NASDAQ:VAVX  VAVX                                                     VanEck Avalanche ETF  19.9900  2.031962   NASDAQ  2026-01-25                 36       33 delayed_streaming_900
+NASDAQ:TDOG  TDOG                                                    21shares Dogecoin ETF  22.7779 -0.421434   NASDAQ  2026-01-21                 36       33 delayed_streaming_900
+  AMEX:CLNK  CLNK                                                    BITWISE CHAINLINK ETF  18.2302  2.974536     AMEX  2026-01-12                 36       33 delayed_streaming_900
+NASDAQ:OBTC  OBTC                                                     Osprey Bitcoin Trust  26.2085 -0.097964   NASDAQ  2025-12-18                 36       33 delayed_streaming_900
+  CBOE:QSOL  QSOL                                                Invesco Galaxy Solana ETF   8.9889  3.274394     CBOE  2025-12-14                 36       33 delayed_streaming_900
+  CBOE:TOXR  TOXR                                                         21Shares XRP ETF  13.9253  1.054427     CBOE  2025-12-10                 36       33 delayed_streaming_900
   AMEX:BITW  BITW                                              BITWISE 10 CRYPTO INDEX ETF  52.4400 -0.217679     AMEX  2025-12-08                 16       33 delayed_streaming_900
-  CBOE:NEHI  NEHI                                            NEOS Ethereum High Income ETF  35.7900 -0.831255     CBOE  2025-12-02                 32        1 delayed_streaming_900
-  AMEX:SOEZ  SOEZ                                                      Franklin Solana ETF  15.4500  2.726064     AMEX  2025-12-02                 36       33 delayed_streaming_900
-  AMEX:GLNK  GLNK                                            Grayscale Chainlink Trust ETF   8.8550  2.607184     AMEX  2025-12-01                 36       33 delayed_streaming_900
-  AMEX:BWOW  BWOW                                                     Bitwise Dogecoin ETF  18.5401 -0.429643     AMEX  2025-11-24                 36       33 delayed_streaming_900
-  AMEX:XRPZ  XRPZ                                                         Franklin XRP ETF  15.4900  0.846354     AMEX  2025-11-23                 36       33 delayed_streaming_900
-  AMEX:GXRP  GXRP                                                  Grayscale XRP Trust ETF  27.6600  0.691664     AMEX  2025-11-23                 36       33 delayed_streaming_900
-  AMEX:GDOG  GDOG                                             Grayscale Dogecoin Trust ETF  13.2900 -0.598355     AMEX  2025-11-23                 36       33 delayed_streaming_900
-   AMEX:XRP   XRP                                                          Bitwise XRP ETF  15.9200  0.568541     AMEX  2025-11-18                 36       33 delayed_streaming_900
-  CBOE:XRPM  XRPM                                 Amplify XRP 3% Monthly Option Income ETF  14.4450  0.662021     CBOE  2025-11-17                 36        4 delayed_streaming_900
-NASDAQ:SOLC  SOLC                                               Canary Marinade Solana ETF  17.5600  2.535356   NASDAQ  2025-11-17                 36       33 delayed_streaming_900
-  AMEX:FSOL  FSOL                                                     Fidelity Solana Fund  10.5650  2.972710     AMEX  2025-11-17                 36       33 delayed_streaming_900
-  CBOE:TSOL  TSOL                                                      21Shares Solana ETF   8.6300  2.860548     CBOE  2025-11-17                 36       33 delayed_streaming_900
-  AMEX:TXBC  TXBC                                 21Shares FTSE Crypto 10 ex-BTC Index ETF  16.3200  0.098135     AMEX  2025-11-12                 24       33 delayed_streaming_900
-  AMEX:TTOP  TTOP                                        21Shares FTSE Crypto 10 Index ETF  18.9644  1.805884     AMEX  2025-11-12                 24       33 delayed_streaming_900
-NASDAQ:XRPC  XRPC                                                           Canary XRP ETF  15.1500  0.664452   NASDAQ  2025-11-12                 36       33 delayed_streaming_900
-  CBOE:SOLM  SOLM                              Amplify Solana 3% Monthly Option Income ETF  11.5700  3.158045     CBOE  2025-11-03                 36        4 delayed_streaming_900
-NASDAQ:VSOL  VSOL                                                        VanEck Solana ETF  11.7900  2.799745   NASDAQ  2025-10-29                 36       33 delayed_streaming_900
-  AMEX:GSOL  GSOL                                             Grayscale Solana Staking ETF   6.6600  3.255814     AMEX  2025-10-28                 36       33 delayed_streaming_900
- NASDAQ:HBR   HBR                                                          Canary HBAR ETF  12.4700  0.889968   NASDAQ  2025-10-27                 36       33 delayed_streaming_900
-NASDAQ:LTCC  LTCC                                                      Canary Litecoin ETF  13.8800  1.393059   NASDAQ  2025-10-27                 36       33 delayed_streaming_900
-  AMEX:BSOL  BSOL                                               Bitwise Solana Staking ETF  12.0100  2.913453     AMEX  2025-10-22                 36       33 delayed_streaming_900
-   CBOE:EHY   EHY                             Amplify Ethereum Max Income Covered Call ETF  11.5700 -1.304285     CBOE  2025-10-08                 36        4 delayed_streaming_900
-  CBOE:ETTY  ETTY                            Amplify Ethereum 3% Monthly Option Income ETF  11.9650 -1.197358     CBOE  2025-10-08                 36        4 delayed_streaming_900
-NASDAQ:DIME  DIME                                                  CoinShares Altcoins ETF   9.4490  7.192286   NASDAQ  2025-10-05                 32        1 delayed_streaming_900
-  AMEX:IETH  IETH                              Bitwise Ethereum Option Income Strategy ETF  22.9353  0.568720     AMEX  2025-10-01                 16        4 delayed_streaming_900
-   CBOE:ESK   ESK                                             REX-Osprey ETH + Staking ETF  14.3000 -1.309206     CBOE  2025-09-24                 36       33 delayed_streaming_900
-  CBOE:BITK  BITK                                Tuttle Capital IBIT 0DTE Covered Call ETF  12.8450 -0.426357     CBOE  2025-09-23                 36        4 delayed_streaming_900
+  AMEX:SOEZ  SOEZ                                                      Franklin Solana ETF  15.5300  3.257979     AMEX  2025-12-02                 36       33 delayed_streaming_900
+  CBOE:NEHI  NEHI                                            NEOS Ethereum High Income ETF  35.8000 -0.803547     CBOE  2025-12-02                 32        1 delayed_streaming_900
+  AMEX:GLNK  GLNK                                            Grayscale Chainlink Trust ETF   8.9100  3.244496     AMEX  2025-12-01                 36       33 delayed_streaming_900
+  AMEX:BWOW  BWOW                                                     Bitwise Dogecoin ETF  18.5376 -0.443070     AMEX  2025-11-24                 36       33 delayed_streaming_900
+  AMEX:XRPZ  XRPZ                                                         Franklin XRP ETF  15.5400  1.171875     AMEX  2025-11-23                 36       33 delayed_streaming_900
+  AMEX:GDOG  GDOG                                             Grayscale Dogecoin Trust ETF  13.3100 -0.448766     AMEX  2025-11-23                 36       33 delayed_streaming_900
+  AMEX:GXRP  GXRP                                                  Grayscale XRP Trust ETF  27.6900  0.800874     AMEX  2025-11-23                 36       33 delayed_streaming_900
+   AMEX:XRP   XRP                                                          Bitwise XRP ETF  15.9900  1.010739     AMEX  2025-11-18                 36       33 delayed_streaming_900
+NASDAQ:SOLC  SOLC                                               Canary Marinade Solana ETF  17.6719  3.188756   NASDAQ  2025-11-17                 36       33 delayed_streaming_900
+  CBOE:TSOL  TSOL                                                      21Shares Solana ETF   8.6700  3.337306     CBOE  2025-11-17                 36       33 delayed_streaming_900
+  AMEX:FSOL  FSOL                                                     Fidelity Solana Fund  10.6000  3.313840     AMEX  2025-11-17                 36       33 delayed_streaming_900
+  CBOE:XRPM  XRPM                                 Amplify XRP 3% Monthly Option Income ETF  14.4702  0.837631     CBOE  2025-11-17                 36        4 delayed_streaming_900
+  AMEX:TXBC  TXBC                                 21Shares FTSE Crypto 10 ex-BTC Index ETF  16.3996  0.586359     AMEX  2025-11-12                 24       33 delayed_streaming_900
+NASDAQ:XRPC  XRPC                                                           Canary XRP ETF  15.2000  0.996678   NASDAQ  2025-11-12                 36       33 delayed_streaming_900
+  AMEX:TTOP  TTOP                                        21Shares FTSE Crypto 10 Index ETF  18.9581 -0.033220     AMEX  2025-11-12                 24       33 delayed_streaming_900
+  CBOE:SOLM  SOLM                              Amplify Solana 3% Monthly Option Income ETF  11.6025  3.447815     CBOE  2025-11-03                 36        4 delayed_streaming_900
+NASDAQ:VSOL  VSOL                                                        VanEck Solana ETF  11.8354  3.195599   NASDAQ  2025-10-29                 36       33 delayed_streaming_900
+  AMEX:GSOL  GSOL                                             Grayscale Solana Staking ETF   6.6800  3.565891     AMEX  2025-10-28                 36       33 delayed_streaming_900
+ NASDAQ:HBR   HBR                                                          Canary HBAR ETF  12.4850  1.011327   NASDAQ  2025-10-27                 36       33 delayed_streaming_900
+NASDAQ:LTCC  LTCC                                                      Canary Litecoin ETF  13.9200  1.685258   NASDAQ  2025-10-27                 36       33 delayed_streaming_900
+  AMEX:BSOL  BSOL                                               Bitwise Solana Staking ETF  12.0500  3.256213     AMEX  2025-10-22                 36       33 delayed_streaming_900
+   CBOE:EHY   EHY                             Amplify Ethereum Max Income Covered Call ETF  11.6000 -1.048375     CBOE  2025-10-08                 36        4 delayed_streaming_900
+  CBOE:ETTY  ETTY                            Amplify Ethereum 3% Monthly Option Income ETF  11.9839 -1.041288     CBOE  2025-10-08                 36        4 delayed_streaming_900
+NASDAQ:DIME  DIME                                                  CoinShares Altcoins ETF   9.3900  6.522972   NASDAQ  2025-10-05                 32        1 delayed_streaming_900
+  AMEX:IETH  IETH                              Bitwise Ethereum Option Income Strategy ETF  22.8232 -0.488766     AMEX  2025-10-01                 16        4 delayed_streaming_900
+   CBOE:ESK   ESK                                             REX-Osprey ETH + Staking ETF  14.3402 -1.031767     CBOE  2025-09-24                 36       33 delayed_streaming_900
+  CBOE:BITK  BITK                                Tuttle Capital IBIT 0DTE Covered Call ETF  12.8696 -0.235659     CBOE  2025-09-23                 36        4 delayed_streaming_900
   AMEX:GDLC  GDLC                                          Grayscale CoinDesk Crypto 5 ETF  36.4700 -0.327958     AMEX  2025-09-18                 24       33 delayed_streaming_900
-  CBOE:DOJE  DOJE                                                      REX-Osprey DOGE ETF  10.5200 -0.473037     CBOE  2025-09-17                 36       33 delayed_streaming_900
-  CBOE:XRPR  XRPR                                                       REX-Osprey XRP ETF  11.6300  0.779896     CBOE  2025-09-17                 36       33 delayed_streaming_900
-  AMEX:ETCO  ETCO                                      Grayscale Ethereum Covered Call ETF  12.2799 -0.333577     AMEX  2025-09-03                 36        4 delayed_streaming_900
-   CBOE:SSK   SSK                                             REX-Osprey SOL + Staking ETF  12.0250  2.777778     CBOE  2025-07-01                 36       33 delayed_streaming_900
+  CBOE:DOJE  DOJE                                                      REX-Osprey DOGE ETF  10.5500 -0.189215     CBOE  2025-09-17                 36       33 delayed_streaming_900
+  CBOE:XRPR  XRPR                                                       REX-Osprey XRP ETF  11.7000  1.386482     CBOE  2025-09-17                 36       33 delayed_streaming_900
+  AMEX:ETCO  ETCO                                      Grayscale Ethereum Covered Call ETF  12.2639 -0.463436     AMEX  2025-09-03                 36        4 delayed_streaming_900
+   CBOE:SSK   SSK                                             REX-Osprey SOL + Staking ETF  12.1100  3.504274     CBOE  2025-07-01                 36       33 delayed_streaming_900
   OTC:PRXRF PRXRF                                                          PURPOSE XRP ETF   6.4200  3.631961      OTC  2025-06-17                 36       33 delayed_streaming_900
-  CBOE:BCCC  BCCC                                        Global X Bitcoin Covered Call ETF  15.1100 -0.264026     CBOE  2025-06-02                 36        4 delayed_streaming_900
-NASDAQ:XRPI  XRPI                                          Volatility Shares Trust XRP ETF   7.9734  0.737840   NASDAQ  2025-05-21                 36       33 delayed_streaming_900
-  CBOE:BITY  BITY                             Amplify Bitcoin 2% Monthly Option Income ETF  34.6800 -0.144543     CBOE  2025-04-28                 36        4 delayed_streaming_900
-  CBOE:BAGY  BAGY                              Amplify Bitcoin Max Income Covered Call ETF  31.6500 -0.472011     CBOE  2025-04-28                 36        4 delayed_streaming_900
-  AMEX:BTCC  BTCC                                       Grayscale Bitcoin Covered Call ETF  17.4000  0.519931     AMEX  2025-04-01                 36        4 delayed_streaming_900
-   AMEX:BPI   BPI                                     Grayscale Bitcoin Premium Income ETF  26.9700 -0.037064     AMEX  2025-04-01                 32        1 delayed_streaming_900
-NASDAQ:SOLZ  SOLZ                                                               Solana ETF   8.9801  2.864834   NASDAQ  2025-03-19                 36       33 delayed_streaming_900
-  CBOE:HBTC  HBTC                                               Fortuna Hedged Bitcoin ETF  21.2565  1.530371     CBOE  2025-03-18                 36       49 delayed_streaming_900
-  CBOE:EZPZ  EZPZ                                                Franklin Crypto Index ETF  20.3413  0.182227     CBOE  2025-02-19                 16       33 delayed_streaming_900
-NASDAQ:NCIQ  NCIQ                                      Hashdex Nasdaq CME Crypto Index ETF  20.2600 -0.147856   NASDAQ  2025-02-12                 16       33 delayed_streaming_900
-  AMEX:FOXY  FOXY                                           Simplify Currency Strategy ETF  28.8350 -0.293914     AMEX  2025-02-03                 32        1 delayed_streaming_900
-  CBOE:BTCI  BTCI                                             NEOS Bitcoin High Income ETF  37.6400 -0.159151     CBOE  2024-10-16                 32        1 delayed_streaming_900
-  CBOE:YETH  YETH                                Roundhill Ether Covered Call Strategy ETF  11.9000 -1.571547     CBOE  2024-09-03                 36        4 delayed_streaming_900
-   AMEX:BTC   BTC                                       Grayscale Bitcoin Mini Trust (BTC)  36.0000 -0.332226     AMEX  2024-07-30                 36       33 delayed_streaming_900
-  CBOE:EZET  EZET                                                    Franklin Ethereum ETF  17.7800 -1.112347     CBOE  2024-07-22                 36       33 delayed_streaming_900
-  CBOE:QETH  QETH                                              Invesco Galaxy Ethereum ETF  23.5300 -0.423191     CBOE  2024-07-22                 36       33 delayed_streaming_900
-   AMEX:ETH   ETH                               Grayscale Ethereum Staking Mini ETF Shares  22.2700 -1.154017     AMEX  2024-07-22                 36       33 delayed_streaming_900
-  AMEX:ETHE  ETHE                                    Grayscale Ethereum Staking ETF Shares  19.0300 -1.040042     AMEX  2024-07-22                 36       33 delayed_streaming_900
-  CBOE:FETH  FETH                                                   Fidelity Ethereum Fund  23.3801 -1.141226     CBOE  2024-07-22                 36       33 delayed_streaming_900
-  CBOE:TETH  TETH                                                    21Shares Ethereum ETF  11.7200 -1.097046     CBOE  2024-07-21                 36       33 delayed_streaming_900
-  AMEX:ETHW  ETHW                                                     Bitwise Ethereum ETF  16.8000 -1.118305     AMEX  2024-07-21                 36       33 delayed_streaming_900
-  CBOE:ETHV  ETHV                                                      VanEck Ethereum ETF  34.3400 -1.008936     CBOE  2024-06-24                 36       33 delayed_streaming_900
-NASDAQ:ETHA  ETHA                                               iShares Ethereum Trust ETF  17.7100 -1.061453   NASDAQ  2024-06-23                 36       33 delayed_streaming_900
-  AMEX:YBIT  YBIT                              YieldMax Bitcoin Option Income Strategy ETF  25.3300 -0.337193     AMEX  2024-04-21                 36        4 delayed_streaming_900
-  AMEX:BTRN  BTRN                                      Global X Bitcoin Trend Strategy ETF  29.1164  1.520556     AMEX  2024-03-20                 36       30 delayed_streaming_900
-  CBOE:YBTC  YBTC                              Roundhill Bitcoin Covered Call Strategy ETF  22.9800 -0.476397     CBOE  2024-01-17                 32        1 delayed_streaming_900
-  AMEX:BITB  BITB                                                      Bitwise Bitcoin ETF  44.1900 -0.293321     AMEX  2024-01-10                 36       33 delayed_streaming_900
-  CBOE:EZBC  EZBC Franklin Templeton Digital Holdings Trust Shares of Franklin Bitcoin ETF  47.0300 -0.360169     CBOE  2024-01-10                 36       33 delayed_streaming_900
-  CBOE:BTCW  BTCW                                                  WisdomTree Bitcoin Fund  85.9450 -0.492069     CBOE  2024-01-10                 36       33 delayed_streaming_900
-  CBOE:HODL  HODL                                                     VanEck Bitcoin Trust  23.0200 -0.303162     CBOE  2024-01-10                 36       33 delayed_streaming_900
-  CBOE:BTCO  BTCO                                               Invesco Galaxy Bitcoin ETF  80.9900 -0.332267     CBOE  2024-01-10                 36       33 delayed_streaming_900
-  AMEX:GBTC  GBTC                                            Grayscale Bitcoin Trust (BTC)  63.2700 -0.299401     AMEX  2024-01-10                 36       33 delayed_streaming_900
-  CBOE:ARKB  ARKB                                                 ARK 21Shares Bitcoin ETF  26.9901 -0.405535     CBOE  2024-01-09                 36       33 delayed_streaming_900
-NASDAQ:BRRR  BRRR                                                   Coinshares Bitcoin ETF  22.9500 -0.347373   NASDAQ  2024-01-09                 36       33 delayed_streaming_900
-  CBOE:FBTC  FBTC                                        Fidelity Wise Origin Bitcoin Fund  70.8450 -0.330613     CBOE  2024-01-09                 36       33 delayed_streaming_900
-NASDAQ:IBIT  IBIT                                                    iShares Bitcoin Trust  46.1001 -0.388721   NASDAQ  2024-01-04                 36       33 delayed_streaming_900
-  AMEX:SETH  SETH                                                ProShares Short Ether ETF  41.8800  0.915663     AMEX  2023-11-01                 36       33 delayed_streaming_900
-  AMEX:BETH  BETH                          ProShares Bitcoin & Ether Market Cap Weight ETF  45.4600 -0.458949     AMEX  2023-10-01                 16       33 delayed_streaming_900
+  CBOE:BCCC  BCCC                                        Global X Bitcoin Covered Call ETF  15.1155 -0.227723     CBOE  2025-06-02                 36        4 delayed_streaming_900
+NASDAQ:XRPI  XRPI                                          Volatility Shares Trust XRP ETF   8.0100  1.200253   NASDAQ  2025-05-21                 36       33 delayed_streaming_900
+  CBOE:BITY  BITY                             Amplify Bitcoin 2% Monthly Option Income ETF  34.6627 -0.194355     CBOE  2025-04-28                 36        4 delayed_streaming_900
+  CBOE:BAGY  BAGY                              Amplify Bitcoin Max Income Covered Call ETF  31.6875 -0.354087     CBOE  2025-04-28                 36        4 delayed_streaming_900
+  AMEX:BTCC  BTCC                                       Grayscale Bitcoin Covered Call ETF  17.3350  0.144425     AMEX  2025-04-01                 36        4 delayed_streaming_900
+   AMEX:BPI   BPI                                     Grayscale Bitcoin Premium Income ETF  26.9211 -0.218310     AMEX  2025-04-01                 32        1 delayed_streaming_900
+NASDAQ:SOLZ  SOLZ                                                               Solana ETF   9.0100  3.207331   NASDAQ  2025-03-19                 36       33 delayed_streaming_900
+  CBOE:HBTC  HBTC                                               Fortuna Hedged Bitcoin ETF  21.2006 -0.262978     CBOE  2025-03-18                 36       49 delayed_streaming_900
+  CBOE:EZPZ  EZPZ                                                Franklin Crypto Index ETF  20.2896 -0.072398     CBOE  2025-02-19                 16       33 delayed_streaming_900
+NASDAQ:NCIQ  NCIQ                                      Hashdex Nasdaq CME Crypto Index ETF  20.2929  0.014293   NASDAQ  2025-02-12                 16       33 delayed_streaming_900
+  AMEX:FOXY  FOXY                                           Simplify Currency Strategy ETF  28.9100 -0.034578     AMEX  2025-02-03                 32        1 delayed_streaming_900
+  CBOE:BTCI  BTCI                                             NEOS Bitcoin High Income ETF  37.6850 -0.039788     CBOE  2024-10-16                 32        1 delayed_streaming_900
+  CBOE:YETH  YETH                                Roundhill Ether Covered Call Strategy ETF  11.9200 -1.406121     CBOE  2024-09-03                 36        4 delayed_streaming_900
+   AMEX:BTC   BTC                                       Grayscale Bitcoin Mini Trust (BTC)  36.0300 -0.249169     AMEX  2024-07-30                 36       33 delayed_streaming_900
+  CBOE:FETH  FETH                                                   Fidelity Ethereum Fund  23.4100 -1.014799     CBOE  2024-07-22                 36       33 delayed_streaming_900
+   AMEX:ETH   ETH                               Grayscale Ethereum Staking Mini ETF Shares  22.3000 -1.020861     AMEX  2024-07-22                 36       33 delayed_streaming_900
+  CBOE:EZET  EZET                                                    Franklin Ethereum ETF  17.8100 -0.945495     CBOE  2024-07-22                 36       33 delayed_streaming_900
+  CBOE:QETH  QETH                                              Invesco Galaxy Ethereum ETF  23.4000 -0.973339     CBOE  2024-07-22                 36       33 delayed_streaming_900
+  AMEX:ETHE  ETHE                                    Grayscale Ethereum Staking ETF Shares  19.0500 -0.936037     AMEX  2024-07-22                 36       33 delayed_streaming_900
+  CBOE:TETH  TETH                                                    21Shares Ethereum ETF  11.7300 -1.012658     CBOE  2024-07-21                 36       33 delayed_streaming_900
+  AMEX:ETHW  ETHW                                                     Bitwise Ethereum ETF  16.8100 -1.059447     AMEX  2024-07-21                 36       33 delayed_streaming_900
+  CBOE:ETHV  ETHV                                                      VanEck Ethereum ETF  34.3100 -1.095417     CBOE  2024-06-24                 36       33 delayed_streaming_900
+NASDAQ:ETHA  ETHA                                               iShares Ethereum Trust ETF  17.7200 -1.005587   NASDAQ  2024-06-23                 36       33 delayed_streaming_900
+  AMEX:YBIT  YBIT                              YieldMax Bitcoin Option Income Strategy ETF  25.3400 -0.297847     AMEX  2024-04-21                 36        4 delayed_streaming_900
+  AMEX:BTRN  BTRN                                      Global X Bitcoin Trend Strategy ETF  29.0584 -0.199200     AMEX  2024-03-20                 36       30 delayed_streaming_900
+  CBOE:YBTC  YBTC                              Roundhill Bitcoin Covered Call Strategy ETF  23.0181 -0.311390     CBOE  2024-01-17                 32        1 delayed_streaming_900
+  CBOE:BTCW  BTCW                                                  WisdomTree Bitcoin Fund  86.2000 -0.196828     CBOE  2024-01-10                 36       33 delayed_streaming_900
+  AMEX:GBTC  GBTC                                            Grayscale Bitcoin Trust (BTC)  63.3000 -0.252127     AMEX  2024-01-10                 36       33 delayed_streaming_900
+  CBOE:EZBC  EZBC Franklin Templeton Digital Holdings Trust Shares of Franklin Bitcoin ETF  47.0900 -0.233051     CBOE  2024-01-10                 36       33 delayed_streaming_900
+  CBOE:HODL  HODL                                                     VanEck Bitcoin Trust  23.0400 -0.216544     CBOE  2024-01-10                 36       33 delayed_streaming_900
+  AMEX:BITB  BITB                                                      Bitwise Bitcoin ETF  44.2200 -0.225632     AMEX  2024-01-10                 36       33 delayed_streaming_900
+  CBOE:BTCO  BTCO                                               Invesco Galaxy Bitcoin ETF  81.0900 -0.209205     CBOE  2024-01-10                 36       33 delayed_streaming_900
+  CBOE:ARKB  ARKB                                                 ARK 21Shares Bitcoin ETF  27.0300 -0.258303     CBOE  2024-01-09                 36       33 delayed_streaming_900
+  CBOE:FBTC  FBTC                                        Fidelity Wise Origin Bitcoin Fund  70.9200 -0.225098     CBOE  2024-01-09                 36       33 delayed_streaming_900
+NASDAQ:BRRR  BRRR                                                   Coinshares Bitcoin ETF  22.9800 -0.217108   NASDAQ  2024-01-09                 36       33 delayed_streaming_900
+NASDAQ:IBIT  IBIT                                                    iShares Bitcoin Trust  46.1900 -0.194468   NASDAQ  2024-01-04                 36       33 delayed_streaming_900
+  AMEX:SETH  SETH                                                ProShares Short Ether ETF  41.8777  0.910120     AMEX  2023-11-01                 36       33 delayed_streaming_900
+  AMEX:EETH  EETH                                                      ProShares Ether ETF  28.9600 -0.889802     AMEX  2023-10-01                 36       33 delayed_streaming_900
+  AMEX:BETH  BETH                          ProShares Bitcoin & Ether Market Cap Weight ETF  45.5086 -0.352532     AMEX  2023-10-01                 16       33 delayed_streaming_900
+  AMEX:BTOP  BTOP           Bitwise Trendwise BTC/ETH and Treasuries Rotation Strategy ETF  31.1319 -0.681438     AMEX  2023-10-01                 16       33 delayed_streaming_900
   AMEX:BETE  BETE                               ProShares Bitcoin & Ether Equal Weight ETF  38.6100 -0.820714     AMEX  2023-10-01                 16       15 delayed_streaming_900
-  AMEX:EETH  EETH                                                      ProShares Ether ETF  28.9200 -1.026694     AMEX  2023-10-01                 36       33 delayed_streaming_900
-  AMEX:BTOP  BTOP           Bitwise Trendwise BTC/ETH and Treasuries Rotation Strategy ETF  31.3600  0.046259     AMEX  2023-10-01                 16       33 delayed_streaming_900
-  AMEX:AETH  AETH             Bitwise Trendwise Ether and Treasuries Rotation Strategy ETF  34.3346  0.042541     AMEX  2023-09-28                 36       33 delayed_streaming_900
-  AMEX:BITC  BITC           Bitwise Trendwise Bitcoin and Treasuries Rotation Strategy ETF  41.5490 -0.170591     AMEX  2023-03-20                 36       33 delayed_streaming_900
-NASDAQ:MAXI  MAXI                                Simplify Bitcoin Strategy PLUS Income ETF  12.1800  0.130713   NASDAQ  2022-09-28                 32        1 delayed_streaming_900
-  AMEX:DEFI  DEFI                                                      Hashdex Bitcoin ETF  92.3600 -0.004114     AMEX  2022-09-14                 36       33 delayed_streaming_900
-  AMEX:BITI  BITI                                              ProShares Short Bitcoin ETF  21.4700  0.420954     AMEX  2022-06-20                 36       33 delayed_streaming_900
+  AMEX:AETH  AETH             Bitwise Trendwise Ether and Treasuries Rotation Strategy ETF  33.9734 -1.052000     AMEX  2023-09-28                 36       33 delayed_streaming_900
+  AMEX:BITC  BITC           Bitwise Trendwise Bitcoin and Treasuries Rotation Strategy ETF  41.4202 -0.480058     AMEX  2023-03-20                 36       33 delayed_streaming_900
+NASDAQ:MAXI  MAXI                                Simplify Bitcoin Strategy PLUS Income ETF  12.2160  0.426665   NASDAQ  2022-09-28                 32        1 delayed_streaming_900
+  AMEX:DEFI  DEFI                                                      Hashdex Bitcoin ETF  92.3200 -0.047421     AMEX  2022-09-14                 36       33 delayed_streaming_900
+  AMEX:BITI  BITI                                              ProShares Short Bitcoin ETF  21.4400  0.280636     AMEX  2022-06-20                 36       33 delayed_streaming_900
   OTC:PEYEF PEYEF          PURPOSE INVESTMENTS INC. ETHER YIELD ETF U S DOLLAR DENOMINATED   1.7400  2.958580      OTC  2021-11-18                 36       33 delayed_streaming_900
   OTC:PBYEF PBYEF        PURPOSE INVESTMENTS INC. BITCOIN YIELD ETF U S DOLLAR DENOMINATED   5.4000  7.784431      OTC  2021-11-18                 36       33 delayed_streaming_900
- NASDAQ:BTF   BTF                                         CoinShares Bitcoin and Ether ETF  22.0700 -0.830383   NASDAQ  2021-10-21                 32        1 delayed_streaming_900
-  AMEX:BITO  BITO                                                    ProShares Bitcoin ETF  11.1300 -0.447227     AMEX  2021-10-18                 36       33 delayed_streaming_900
+ NASDAQ:BTF   BTF                                         CoinShares Bitcoin and Ether ETF  22.1350 -0.538311   NASDAQ  2021-10-21                 32        1 delayed_streaming_900
+  AMEX:BITO  BITO                                                    ProShares Bitcoin ETF  11.1500 -0.268336     AMEX  2021-10-18                 36       33 delayed_streaming_900
   OTC:XETRF XETRF           PURPOSE INVESTMENTS INC. ETHER ETF ETF NON CURRENCY HEDGE UNIT   7.9150 -1.351048      OTC  2021-04-19                 36       33 delayed_streaming_900
   OTC:ETHXF ETHXF                                   CI INVESTMENTS INC GALAXY ETHEREUM ETF  10.2600  0.785855      OTC  2021-04-15                 36       33 delayed_streaming_900
   OTC:CGBCF CGBCF                                    CI INVESTMENTS INC GALAXY BITCOIN ETF  15.0000  6.007067      OTC  2021-03-04                 36       33 delayed_streaming_900
   OTC:PRBEF PRBEF         PURPOSE INVESTMENTS INC. BITCOIN ETF USD ETF NON CURRENCY HEDGED  14.3800  0.209059      OTC  2021-02-17                 36       33 delayed_streaming_900
   OTC:TOSRF TOSRF                                                              21SHARES AG  38.0000 -1.002480      OTC  2019-04-01                 36       33 delayed_streaming_900
-  OTC:TWTBF TWTBF                       21SHARES AG UNDERLYING TRACKER ON BITCOIN ETP 2019  22.3618  0.547662      OTC  2019-02-24                 36       33 delayed_streaming_900
+  OTC:TWTBF TWTBF                       21SHARES AG UNDERLYING TRACKER ON BITCOIN ETP 2019  27.3600 22.351510      OTC  2019-02-24                 36       33 delayed_streaming_900
   OTC:CXBTF CXBTF                                               COINSHARES XBT PROVIDER AB 352.1200 -8.466557      OTC  2015-05-17                 36       33 delayed_streaming_900
-  AMEX:USDU  USDU                            WisdomTree Bloomberg U.S. Dollar Bullish Fund  25.8250 -0.596613     AMEX  2013-12-17                 16       25 delayed_streaming_900
-   AMEX:CEW   CEW                               WisdomTree Emerging Currency Strategy Fund  19.5200  0.774393     AMEX  2009-05-05                 16       15 delayed_streaming_900
-   AMEX:UUP   UUP                                    Invesco DB USD Index Bullish Fund ETF  27.3550 -0.527273     AMEX  2007-02-19                 16       25 delayed_streaming_900
+  AMEX:USDU  USDU                            WisdomTree Bloomberg U.S. Dollar Bullish Fund  25.8200 -0.615858     AMEX  2013-12-17                 16       25 delayed_streaming_900
+   AMEX:CEW   CEW                               WisdomTree Emerging Currency Strategy Fund  19.5230  0.789881     AMEX  2009-05-05                 16       15 delayed_streaming_900
+   AMEX:UUP   UUP                                    Invesco DB USD Index Bullish Fund ETF  27.3500 -0.545455     AMEX  2007-02-19                 16       25 delayed_streaming_900
    AMEX:UDN   UDN                                         Invesco DB USD Index Bearish ETF  18.3800  0.492072     AMEX  2007-02-19                 16       25 delayed_streaming_900
-   AMEX:FXY   FXY                                Invesco CurrencyShares Japanese Yen Trust  58.7350  0.936587     AMEX  2007-02-11                 36       33 delayed_streaming_900
-   AMEX:FXC   FXC                             Invesco CurrencyShares Canadian Dollar Trust  71.6600 -0.125436     AMEX  2006-06-20                 36       33 delayed_streaming_900
+   AMEX:FXY   FXY                                Invesco CurrencyShares Japanese Yen Trust  58.6900  0.859254     AMEX  2007-02-11                 36       33 delayed_streaming_900
    AMEX:FXB   FXB                      Invesco CurrencyShares British Pound Sterling Trust 130.6100  0.345728     AMEX  2006-06-20                 36       33 delayed_streaming_900
-   AMEX:FXA   FXA                           Invesco CurrencyShares Australian Dollar Trust  71.6600  0.773875     AMEX  2006-06-20                 36       33 delayed_streaming_900
+   AMEX:FXC   FXC                             Invesco CurrencyShares Canadian Dollar Trust  71.6900 -0.083624     AMEX  2006-06-20                 36       33 delayed_streaming_900
+   AMEX:FXA   FXA                           Invesco CurrencyShares Australian Dollar Trust  71.6800  0.802000     AMEX  2006-06-20                 36       33 delayed_streaming_900
    AMEX:FXF   FXF                                 Invesco CurrencyShares Swiss Franc Trust 113.3000  0.559155     AMEX  2006-06-20                 36       33 delayed_streaming_900
-   AMEX:FXE   FXE                               Invesco CurrencyShares Euro Currency Trust 108.3900  0.472747     AMEX  2005-12-08                 36       33 delayed_streaming_900
+   AMEX:FXE   FXE                               Invesco CurrencyShares Euro Currency Trust 108.4000  0.482017     AMEX  2005-12-08                 36       33 delayed_streaming_900
