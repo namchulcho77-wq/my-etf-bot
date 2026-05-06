@@ -1,2 +1,2 @@
-tvscreener
+tvscreener==0.3.0
 pandas
