@@ -3,28 +3,28 @@
 NASDAQ:TMYY TMYY                       GraniteShares YieldBOOST TSM ETF 25.1550  3.084968   NASDAQ  2026-04-13                 36        4 delayed_streaming_900
 NASDAQ:MUYY MUYY                        GraniteShares YieldBOOST MU ETF 26.6700  0.470898   NASDAQ  2026-04-13                 36        4 delayed_streaming_900
  NASDAQ:CWY  CWY                      GraniteShares YieldBOOST CRWV ETF 24.5600  1.487184   NASDAQ  2026-04-13                 36        4 delayed_streaming_900
-NASDAQ:HMYY HMYY                      GraniteShares YieldBoost HIMS ETF  7.4351  1.990398   NASDAQ  2025-12-01                 36        4 delayed_streaming_900
 NASDAQ:RTYY RTYY                      GraniteShares YieldBoost RIOT ETF 12.9400  0.193573   NASDAQ  2025-12-01                 36        4 delayed_streaming_900
+NASDAQ:HMYY HMYY                      GraniteShares YieldBoost HIMS ETF  7.4351  1.990398   NASDAQ  2025-12-01                 36        4 delayed_streaming_900
 NASDAQ:YBMN YBMN                        Defiance BMNR Option Income ETF 16.6472 -1.316593   NASDAQ  2025-11-23                 36        4 delayed_streaming_900
   CBOE:MSST MSST YieldMax MSTR Performance & Distribution Target 25 ETF 44.0973 -1.060579     CBOE  2025-11-16                 36        4 delayed_streaming_900
   CBOE:NVIT NVIT YieldMax NVDA Performance & Distribution Target 25 ETF 51.0713  4.080368     CBOE  2025-11-16                 36        4 delayed_streaming_900
   CBOE:TEST TEST YieldMax TSLA Performance & Distribution Target 25 ETF 44.6015  1.376953     CBOE  2025-11-16                 36        4 delayed_streaming_900
 NASDAQ:IOYY IOYY                      GraniteShares YieldBOOST IONQ ETF  9.2753  1.258734   NASDAQ  2025-11-03                 36        4 delayed_streaming_900
 NASDAQ:MAAY MAAY                      GraniteShares YieldBOOST MARA ETF  7.3803  0.620330   NASDAQ  2025-11-03                 36        4 delayed_streaming_900
-NASDAQ:BBYY BBYY                      GraniteShares YieldBOOST BABA ETF 12.4700  1.795918   NASDAQ  2025-10-20                 36        4 delayed_streaming_900
 NASDAQ:FBYY FBYY                      GraniteShares YieldBOOST META ETF 13.0750  1.186376   NASDAQ  2025-10-20                 36        4 delayed_streaming_900
-NASDAQ:HOYY HOYY                      GraniteShares YieldBOOST HOOD ETF  6.3756  0.480686   NASDAQ  2025-09-29                 36        4 delayed_streaming_900
+NASDAQ:BBYY BBYY                      GraniteShares YieldBOOST BABA ETF 12.4700  1.795918   NASDAQ  2025-10-20                 36        4 delayed_streaming_900
 NASDAQ:SMYY SMYY                      GraniteShares YieldBOOST SMCI ETF  8.9853  2.861951   NASDAQ  2025-09-29                 36        4 delayed_streaming_900
+NASDAQ:HOYY HOYY                      GraniteShares YieldBOOST HOOD ETF  6.3756  0.480686   NASDAQ  2025-09-29                 36        4 delayed_streaming_900
   AMEX:CRCO CRCO               YieldMax CRCL Option Income Strategy ETF 26.2200  5.811138     AMEX  2025-09-28                 36        4 delayed_streaming_900
 NASDAQ:MTYY MTYY                      GraniteShares YieldBOOST MSTR ETF  4.7597  0.415612   NASDAQ  2025-09-22                 36        4 delayed_streaming_900
 NASDAQ:PLYY PLYY                      GraniteShares YieldBOOST PLTR ETF 10.7850 -1.698067   NASDAQ  2025-09-22                 36        4 delayed_streaming_900
-NASDAQ:AMYY AMYY                       GraniteShares YieldBOOST AMD ETF 16.8200  2.651735   NASDAQ  2025-09-15                 36        4 delayed_streaming_900
 NASDAQ:AZYY AZYY                      GraniteShares YieldBoost AMZN ETF 17.4800  0.258102   NASDAQ  2025-09-15                 36        4 delayed_streaming_900
+NASDAQ:AMYY AMYY                       GraniteShares YieldBOOST AMD ETF 16.8200  2.651735   NASDAQ  2025-09-15                 36        4 delayed_streaming_900
   AMEX:GMEY GMEY                YieldMax GME Option Income Strategy ETF 34.4086  3.534332     AMEX  2025-09-07                 36        4 delayed_streaming_900
   AMEX:RDYY RDYY               YieldMax RDDT Option Income Strategy ETF 21.8477 -2.285027     AMEX  2025-09-07                 36        4 delayed_streaming_900
   CBOE:NVDO NVDO Leverage Shares 2x Capped Accelerated NVDA Monthly ETF 20.2970  4.506276     CBOE  2025-08-12                 36        4 delayed_streaming_900
-  CBOE:COIO COIO Leverage Shares 2x Capped Accelerated COIN Monthly ETF  8.1967  0.388242     CBOE  2025-08-12                 36        4 delayed_streaming_900
   CBOE:TSLO TSLO Leverage Shares 2x Capped Accelerated TSLA Monthly ETF 18.3300  1.736119     CBOE  2025-08-12                 36        4 delayed_streaming_900
+  CBOE:COIO COIO Leverage Shares 2x Capped Accelerated COIN Monthly ETF  8.1967  0.388242     CBOE  2025-08-12                 36        4 delayed_streaming_900
   CBOE:MSOO MSOO Leverage Shares 2x Capped Accelerated MSTR Monthly ETF  8.3212  0.869144     CBOE  2025-08-12                 36        4 delayed_streaming_900
   CBOE:PLOO PLOO Leverage Shares 2x Capped Accelerated PLTR Monthly ETF 13.5007 -1.454745     CBOE  2025-08-12                 36        4 delayed_streaming_900
   AMEX:RBLY RBLY               YieldMax RBLX Option Income Strategy ETF 13.5200 -0.438894     AMEX  2025-07-28                 36        4 delayed_streaming_900
@@ -52,12 +52,12 @@ NASDAQ:TSYY TSYY                      GraniteShares YieldBOOST TSLA ETF  3.2000 
   AMEX:CRSH CRSH         YieldMax Short TSLA Option Income Strategy ETF 23.4653 -1.973047     AMEX  2024-04-30                 36        4 delayed_streaming_900
   AMEX:MSTY MSTY               YieldMax MSTR Option Income Strategy ETF 27.3400 -0.218978     AMEX  2024-02-21                 36        4 delayed_streaming_900
   AMEX:AIYY AIYY                 YieldMax AI Option Income Strategy ETF 10.0600  1.105528     AMEX  2023-11-26                 36        4 delayed_streaming_900
-  CBOE:GOOP GOOP         Kurv Yield Premium Strategy Google (GOOGL) ETF 46.8798  2.626532     CBOE  2023-10-30                 36        4 delayed_streaming_900
-  CBOE:MSFY MSFY       Kurv Yield Premium Strategy Microsoft (MSFT) ETF 18.7883  0.731293     CBOE  2023-10-30                 36        4 delayed_streaming_900
   CBOE:AMZP AMZP          Kurv Yield Premium Strategy Amazon (AMZN) ETF 31.1450  0.529681     CBOE  2023-10-30                 36        4 delayed_streaming_900
+  CBOE:MSFY MSFY       Kurv Yield Premium Strategy Microsoft (MSFT) ETF 18.7883  0.731293     CBOE  2023-10-30                 36        4 delayed_streaming_900
+  CBOE:GOOP GOOP         Kurv Yield Premium Strategy Google (GOOGL) ETF 46.8798  2.626532     CBOE  2023-10-30                 36        4 delayed_streaming_900
   CBOE:NFLP NFLP         Kurv Yield Premium Strategy Netflix (NFLX) ETF 23.2343  0.495681     CBOE  2023-10-26                 36        4 delayed_streaming_900
-  CBOE:TSLP TSLP           Kurv Yield Premium Strategy Tesla (TSLA) ETF 18.5560  0.520043     CBOE  2023-10-26                 36        4 delayed_streaming_900
   CBOE:AAPY AAPY           Kurv Yield Premium Strategy Apple (AAPL) ETF 25.1182  1.456522     CBOE  2023-10-26                 36        4 delayed_streaming_900
+  CBOE:TSLP TSLP           Kurv Yield Premium Strategy Tesla (TSLA) ETF 18.5560  0.520043     CBOE  2023-10-26                 36        4 delayed_streaming_900
   AMEX:MRNY MRNY               YieldMax MRNA Option Income Strategy ETF 16.2900  2.646503     AMEX  2023-10-22                 36        4 delayed_streaming_900
   AMEX:XYZY XYZY                YieldMax XYZ Option Income Strategy ETF 27.8074 -0.616869     AMEX  2023-10-09                 36        4 delayed_streaming_900
   AMEX:PYPY PYPY               YieldMax PYPL Option Income Strategy ETF 28.4351 -0.367205     AMEX  2023-09-25                 36        4 delayed_streaming_900
@@ -68,10 +68,10 @@ NASDAQ:TSYY TSYY                      GraniteShares YieldBOOST TSLA ETF  3.2000 
   AMEX:DISO DISO                YieldMax DIS Option Income Strategy ETF 10.4763  6.962142     AMEX  2023-08-23                 36        4 delayed_streaming_900
   AMEX:CONY CONY               YieldMax COIN Option Income Strategy ETF 27.3700 -0.036523     AMEX  2023-08-14                 36        4 delayed_streaming_900
   AMEX:NFLY NFLY               YieldMax NFLX Option Income Strategy ETF  9.7400  0.000000     AMEX  2023-08-06                 36        4 delayed_streaming_900
-   AMEX:FBY  FBY               YieldMax META Option Income Strategy ETF 10.1800  1.092354     AMEX  2023-07-26                 36        4 delayed_streaming_900
   AMEX:GOOY GOOY              YieldMax GOOGL Option Income Strategy ETF 15.7600  1.546392     AMEX  2023-07-26                 36        4 delayed_streaming_900
+   AMEX:FBY  FBY               YieldMax META Option Income Strategy ETF 10.1800  1.092354     AMEX  2023-07-26                 36        4 delayed_streaming_900
   AMEX:AMZY AMZY               YieldMax AMZN Option Income Strategy ETF 12.8100  0.313234     AMEX  2023-07-23                 36        4 delayed_streaming_900
   AMEX:NVDY NVDY               YieldMax NVDA Option Income Strategy ETF 13.8900  4.279279     AMEX  2023-05-09                 36        4 delayed_streaming_900
   AMEX:APLY APLY               YieldMax AAPL Option Income Strategy ETF 12.4600  0.972447     AMEX  2023-04-16                 36        4 delayed_streaming_900
-  AMEX:OARK OARK         YieldMax Innovation Option Income Strategy ETF 33.3300  2.430614     AMEX  2022-11-21                 36        4 delayed_streaming_900
   AMEX:TSLY TSLY               YieldMax TSLA Option Income Strategy ETF 30.2200  1.853724     AMEX  2022-11-21                 36        4 delayed_streaming_900
+  AMEX:OARK OARK         YieldMax Innovation Option Income Strategy ETF 33.3300  2.430614     AMEX  2022-11-21                 36        4 delayed_streaming_900
