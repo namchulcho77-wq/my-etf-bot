@@ -9,7 +9,8 @@ def run_leverage_etf():
   ss = tvs.StockScreener()
   ss.select(StockField.NAME, StockField.PRICE, StockField.CHANGE_PERCENT, StockField.DESCRIPTION, StockField.EXCHANGE, StockField.LAUNCH_DATE, StockField.SELECTION_CRITERIA,StockField.STRATEGY, StockField.LEVERAGE_RATIO)
 
-  ss.where(StockField.LEVERAGED_FLAG == "Leveraged" )           # AND
+  #ss.where(StockField.LEVERAGED_FLAG == "Leveraged" )           # AND
+  ss.where(StockField.LEVERAGED_FLAG.isin(['Leveraged', 'Inverse']))
   #ss.where(StockField.STRATEGY != "4" )           # AND
 
   ss.set_range(0, 1000)    # First 100 results
