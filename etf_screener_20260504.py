@@ -21,11 +21,8 @@ def run_leverage_etf():
   df['Launch Date'] = df['Launch Date'].dt.tz_convert('America/New_York')
   df['Launch Date'] = df['Launch Date'].dt.strftime('%Y-%m-%d')
   
-
-  with open('leverage_etf.txt', 'w', encoding='utf-8') as f:
-      # to_string()을 쓰면 출력 화면 그대로 저장됩니다.
-      f.write(df.to_string(index=False))
-      print(f"leverage_etf 파일 생성 완료!")
+  df.to_csv('leverage_etf.txt', index=False, sep=',', encoding='utf-8-sig')
+  print(f"leverage_etf 파일 생성 완료!")
 
 def run_cryto_etf():
   ss = tvs.StockScreener()
@@ -42,11 +39,9 @@ def run_cryto_etf():
   df['Launch Date'] = pd.to_datetime(df['Launch Date'], unit='s', utc=True)
   df['Launch Date'] = df['Launch Date'].dt.tz_convert('America/New_York')
   df['Launch Date'] = df['Launch Date'].dt.strftime('%Y-%m-%d')
-  
-  with open('cryto_etf.txt', 'w', encoding='utf-8') as f:
-      # to_string()을 쓰면 출력 화면 그대로 저장됩니다.
-      f.write(df.to_string(index=False))
-      print(f"cryto_etf 파일 생성 완료!")
+
+  df.to_csv('cryto_etf.txt', index=False, sep=',', encoding='utf-8-sig')
+  print(f"cryto_etf 파일 생성 완료!")
 
 def run_singleStockExCoveredCall_etf():
   ss = tvs.StockScreener()
@@ -67,10 +62,8 @@ def run_singleStockExCoveredCall_etf():
   df['Launch Date'] = df['Launch Date'].dt.tz_convert('America/New_York')
   df['Launch Date'] = df['Launch Date'].dt.strftime('%Y-%m-%d')
 
-  with open('singleStockExCoveredCall_etf.txt', 'w', encoding='utf-8') as f:
-      # to_string()을 쓰면 출력 화면 그대로 저장됩니다.
-      f.write(df.to_string(index=False))
-      print(f"singleStockExCoveredCall_etf 파일 생성 완료!")
+  df.to_csv('singleStockExCoveredCall_etf.txt', index=False, sep=',', encoding='utf-8-sig')
+  print(f"singleStockExCoveredCall_etf 파일 생성 완료!")
 
 def run_singleStockCoveredCall_etf():
   ss = tvs.StockScreener()
@@ -95,10 +88,8 @@ def run_singleStockCoveredCall_etf():
   #df['Launch Date'] = df['Launch Date'].dt.strftime('%Y-%m-%d')
   df['Launch Date'] = pd.to_datetime(df['Launch Date'], unit='s', utc=True).dt.tz_convert('America/New_York').dt.strftime('%Y-%m-%d')
 
-  with open('singleStockCoveredCall_etf.txt', 'w', encoding='utf-8') as f:
-      # to_string()을 쓰면 출력 화면 그대로 저장됩니다.
-      f.write(df.to_string(index=False))
-      print(f"singleStockCoveredCall_etf 파일 생성 완료!")
+  df.to_csv('singleStockCoveredCall_etf.txt', index=False, sep=',', encoding='utf-8-sig')
+  print(f"singleStockCoveredCall_etf 파일 생성 완료!")
 
 if __name__ == "__main__":
     run_leverage_etf()
